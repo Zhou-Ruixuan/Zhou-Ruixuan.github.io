@@ -1,26 +1,259 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Day</title>
-    <url>/2024/06/02/Day/</url>
-    <content><![CDATA[]]></content>
+    <title>20230909</title>
+    <url>/2023/09/09/20230909/</url>
+    <content><![CDATA[<h3 id="20230909-星期六"><a href="#20230909-星期六" class="headerlink" title="20230909 星期六"></a>20230909 星期六</h3><p>正在完成： CST仿真学习、FEKO仿真学习<br>待完成：CST频域分析dipole、线性系统复习、EM复习</p>
+<h3 id="今日健身"><a href="#今日健身" class="headerlink" title="今日健身"></a>今日健身</h3><p>已经过了体能复健期<br>无氧打卡：背部、臀腿<br>有氧打卡：跑步机30min<br>拉伸20min<br>记得买一个小一点的泡沫轴和弹力带<br>饮食上注意甜食</p>
+<h3 id="另"><a href="#另" class="headerlink" title="另"></a>另</h3><p>戒辣第一周 成功！同时记得早睡(11点前) 争取在雨季来之前改善一下阴虚火旺体质<br>下周五关注论文情况<br>留坡 or not？</p>
+]]></content>
+      <tags>
+        <tag>Live once</tag>
+      </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2024/06/02/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>20231006</title>
+    <url>/2023/10/06/20231006/</url>
+    <content><![CDATA[<h3 id="20231006-星期五"><a href="#20231006-星期五" class="headerlink" title="20231006 星期五"></a>20231006 星期五</h3><p>备忘录：<br>matlab 读入 txt 文件：<code>dlmread(&#39;.txt&#39;)</code></p>
+<p>fft.fftfreq(N,dt):</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">f = [0, 1, ...,   n/2-1,     -n/2, ..., -1] / (d*n)   if n is even</span><br><span class="line">f = [0, 1, ..., (n-1)/2, -(n-1)/2, ..., -1] / (d*n)   if n is odd</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p>傅里叶变换后若幅值相同但相位不同首先考虑有没有加入时移，一般就是时间信号经过了移位。</p>
 ]]></content>
+      <tags>
+        <tag>Live once</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20230928</title>
+    <url>/2023/09/28/20230928/</url>
+    <content><![CDATA[<h3 id="20230928-星期四"><a href="#20230928-星期四" class="headerlink" title="20230928 星期四"></a>20230928 星期四</h3><p>突然就多了一揽子的事情，今天论文终于被接收了，开心！能在 Google scholar 上留个名吗hh(bushi  十一月能有机会回国了还是蛮好的<br>6004 的作业也发布了，本来以为只有一个题，结果有八个题….<br>混乱的十月和十一月…. 跟上学期想象中的美好生活一点都不沾边….<br>先把答辩过了，然后写作业和会议准备同步进行，最后再考虑另外一门课的复习，OK！前进前进前进进！</p>
+]]></content>
+      <tags>
+        <tag>Live once</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20230916</title>
+    <url>/2023/09/16/20230916/</url>
+    <content><![CDATA[<h3 id="20230916-星期六"><a href="#20230916-星期六" class="headerlink" title="20230916 星期六"></a>20230916 星期六</h3><p><strong>2023.09.22更新：</strong><br>得到答案了，对于gaussiandotdot，相位出现不同的点都在 3.14 和 -3.14，即 $\pi$ 和 $-\pi$，其对应的相位是一样的<br>$$<br>e^{j\pi} &#x3D; e^{j(-\pi)} &#x3D; 1<br>$$</p>
+<p>———————————————————— 原po ———————————————————<br>今天有一个疑惑尚未解决，记录一下，怕我忘了。</p>
+<p>对于高斯一族：</p>
+<ol>
+<li>高斯信号：</li>
+</ol>
+<p>$$<br>W(t)&#x3D;e^{-\zeta (t-\chi)^2}<br>$$<br>其中<br>$$<br>\zeta &#x3D; 2\pi^2f^2,~~~ \chi &#x3D; \frac{1}{f}<br>$$<br>其对应的频域信号(即傅里叶变换)为<br>$$<br>Y(f) &#x3D; \sqrt{\frac{\pi}{\zeta}}e^{-\frac{\pi^2f^2}{\zeta}}e^{-i2\pi f\chi};<br>$$</p>
+<ol start="2">
+<li>高斯一阶导信号 gaussiandot：<br>$$<br>W(t)&#x3D; -2\zeta(t-\chi)e^{-\zeta (t-\chi)^2}<br>$$<br>因为时域与频域有以下的对应关系：<br>$$<br>(\frac{\partial}{\partial t})^n &#x3D; (-i\omega)^n<br>$$</li>
+</ol>
+<p>故其对应的频域信号为：<br>$$<br>Y(f) &#x3D; (-i2\pi f)\sqrt{\frac{\pi}{\zeta}}e^{-\frac{\pi^2f^2}{\zeta}}e^{-j2\pi f\chi};<br>$$</p>
+<ol start="3">
+<li>高斯二阶导信号 gaussiandotdot：<br>$$<br>W(t)&#x3D; 2\zeta(2\zeta(t-\chi)^2-1)e^{-\zeta (t-\chi)^2}<br>$$<br>其对应的频域信号应该为：<br>$$<br>Y(f) &#x3D; (-i2\pi f)^2\sqrt{\frac{\pi}{\zeta}}e^{-\frac{\pi^2f^2}{\zeta}}e^{-j2\pi f\chi};<br>$$<br>但是在 $Matlab$ 中，高斯信号和高斯一阶信号的 $FFT$ 和上述解析解的幅值和相位都能对上，只有高斯二阶导的相位对不上，真奇怪。有待解决。</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>Live once</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Kirchhoff migration</title>
+    <url>/2023/08/12/Kirchhoff%20migration/</url>
+    <content><![CDATA[<h1 id="有关逆时偏移成像方法"><a href="#有关逆时偏移成像方法" class="headerlink" title="有关逆时偏移成像方法"></a>有关逆时偏移成像方法</h1><h2 id="基尔霍夫-Kirchhoff-积分偏移成像方法"><a href="#基尔霍夫-Kirchhoff-积分偏移成像方法" class="headerlink" title="基尔霍夫(Kirchhoff)积分偏移成像方法"></a>基尔霍夫(Kirchhoff)积分偏移成像方法</h2><p>利用优化算法，将瞬变电磁场进行波场变换，得到“波场”，将波场分析的原理即地震波场从地面向地下反向外推进行偏移成像的方法用于对瞬变电磁场的解释，形成瞬变电磁场的偏移方法。即对观测电磁数据向下延拓，构建产生响应的地下电阻率图像。</p>
+]]></content>
+      <categories>
+        <category>inverse problem</category>
+      </categories>
+      <tags>
+        <tag>EM learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>computational electrodynamics chapter 2</title>
+    <url>/2023/07/02/Computational%20electrodynamics/</url>
+    <content><![CDATA[<h1 id="Chapter-2-一维标量波动方程"><a href="#Chapter-2-一维标量波动方程" class="headerlink" title="Chapter 2 一维标量波动方程"></a>Chapter 2 一维标量波动方程</h1><p>本章采用数值FDTD方法求解一维标量波动方程，是后续解决二维和三维麦克斯韦方程组的基础。</p>
+<h2 id="2-2-波动方程解"><a href="#2-2-波动方程解" class="headerlink" title="2.2 波动方程解"></a>2.2 波动方程解</h2><p>考虑以下一维标量波动方程：<br>$$<br>\frac{\partial^2{u}}{\partial t^2} &#x3D; c^2 \frac{\partial^2{u}}{\partial x^2}  \tag{1}<br>$$<br>其中 $u &#x3D; u(x,t)$. 假设以下形式的解：<br>$$<br>u(x,t) &#x3D; F(x+ct) + G(x-ct)<br>$$<br>其中 $F$ 和 $G$ 是任意函数。将 $F$ 和 $G$ 代入上述二阶求导当中，可以得到：<br>$$<br>c^2F’’(x+ct)+c^2G’’(x-ct) &#x3D; c^2[F’’(x+ct)+G’’(x-ct)]  \tag{2}<br>$$<br>无论 $F$ 和 $G$ 的取值，这都是一个恒等式。故 $F$ 和 $G$ 是该波动方程的解。考虑在某一特定时刻 $t_0$，$F &#x3D; F(x+ct)$. 经历了 $\Delta t$ 后，$F$ 向左移动了 $c\Delta t$ 米(往 $-x<br>$ 方向)。因为函数 $F$ 中关于时间的部分增加了 $c\Delta t$，所以关于空间的部分需要减少$c\Delta t$来维持与之前相同的函数值。对于$G(x-ct)$也是同样的，但它将会是一个右行波。两个函数中的$c$表示向 $+x$ 或 $-x$ 方向传播的波的波速。</p>
+<h2 id="2-3-色散关系"><a href="#2-3-色散关系" class="headerlink" title="2.3 色散关系"></a>2.3 色散关系</h2><p>&emsp;&emsp;在这一章将介绍色散关系。色散定义为行波的波长 $\lambda$ 随频率 $f$ 的变化。一般情况下，色散表示为行波的波数 $k &#x3D; 2\pi&#x2F;\lambda$，其中角频率为 $\omega &#x3D; 2\pi f$.<br>&emsp;&emsp;考虑一个连续正弦行波的解，它的矢量形式为：<br>$$<br>u(x,t) &#x3D; e^{j(\omega t-kx)} \tag{3}<br>$$<br>其中 $\omega$ 和 $k$ 是基于 $j &#x3D; \sqrt{-1}$ 的定义。 将其带入 $(1)$ 可以得到：<br>$$<br>(j\omega)^2e^{j(\omega t -kx)} &#x3D; c^2(-jk)^2e^{j(\omega t -kx)}<br>$$<br>根据左右系数相同，我们可以得到：<br>$$<br>\omega^2 &#x3D; c^2k^2  \rightarrow  k &#x3D; \pm \omega&#x2F;c \tag{4}<br>$$<br>这是对于一维标量波动方程的色散关系式。可以看出波数 $k$ 线性正比于正弦波频率。其中 $+$ 表示往 $+x$ 方向传播， $-$ 表示往 $-x$ 方向传播。<br>根据 $(4)$ 式我们同样可以表示波的相速度：<br>$$<br>v_p &#x3D; \omega &#x2F;k &#x3D; \pm c \tag{5}<br>$$<br>可以看出相速度与频率无关，始终为常数 $\pm c$。<br>根据 $(4)$ 式后得到的 $(5)$ 式中的恒定相速度，故可以称之为无色散的。故无论传播了多长的距离波形将不会改变。<br>同样，考虑角频率是波数的函数，即 $\omega &#x3D; \omega(k)$，故通过对 $k$ 求导可以得到群速:<br>$$<br>v_g &#x3D; \frac{d\omega}{dk} &#x3D; \frac{2c^2k}{2\omega} &#x3D; \frac{c^2}{\omega}\cdot(\pm \frac{\omega}{c}) &#x3D; \pm c<br>$$<br>故群速也与频率无关，恒定为 $\pm c$. </p>
+<h2 id="2-4-有限差"><a href="#2-4-有限差" class="headerlink" title="2.4 有限差"></a>2.4 有限差</h2><p>&emsp;&emsp;考虑 $u(x,t_n)$ 到 $x_i + \Delta x$ 在时间点 $t_n$ 处的展开：<br>$$<br>u(x_i + \Delta x)\mid_{t_n} &#x3D; u\mid_{x_i,t_n} + \Delta x \cdot {\frac{\partial u}{\partial x}}\mid_{x_i,t_n} + \frac{(\Delta x)^2}{2}\cdot{\frac{\partial^2 u}{\partial x^2}}\mid_{x_i,t_n} + \frac{(\Delta x)^3}{6}\cdot{\frac{\partial^3 u}{\partial x^3}}\mid_{x_i,t_n} + \frac{(\Delta x)^4}{24}\cdot{\frac{\partial^4 u}{\partial x^4}}\mid_{\xi_1,t_n}<br>$$<br>最后一项可以看作残差，其中 $\xi_1$ 是空间中位于 $(x_i, x_i + \Delta x)$ 里的一点。同样，考虑 $u(x,t_n)$ 到 $x_i - \Delta x$ 在时间点 $t_n$ 处的展开：<br>$$<br>u(x_i - \Delta x)\mid_{t_n} &#x3D; u\mid_{x_i,t_n} - \Delta x \cdot {\frac{\partial u}{\partial x}}\mid_{x_i,t_n} + \frac{(\Delta x)^2}{2}\cdot{\frac{\partial^2 u}{\partial x^2}}\mid_{x_i,t_n} - \frac{(\Delta x)^3}{6}\cdot{\frac{\partial^3 u}{\partial x^3}}\mid_{x_i,t_n} + \frac{(\Delta x)^4}{24}\cdot{\frac{\partial^4 u}{\partial x^4}}\mid_{\xi_2,t_n}<br>$$<br>其中 $\xi_2$ 是空间中位于 $(x_i, x_i - \Delta x)$ 里的一点。将上述两式相加可得：<br>$$<br>u(x_i + \Delta x)\mid_{t_n} + u(x_i - \Delta x)\mid_{t_n} &#x3D; 2u\mid_{x_i,t_n} + (\Delta x)^2\cdot{\frac{\partial^2 u}{\partial x^2}}\mid_{x_i,t_n} + \frac{(\Delta x)^4}{12}\cdot{\frac{\partial^3 u}{\partial x^4}}\mid_{\xi_3,t_n} \tag{6}<br>$$<br>故根据中值定理，$\xi_3$ 是空间中位于 $(x_i - \Delta x, x_i + \Delta x)$ 里的一点。最后由 $(6)$ 式可以得到：<br>$$<br>{\frac{\partial^2 u}{\partial x^2}}\mid_{x_i,t_n} &#x3D; [\frac{u(x_i + \Delta x)-2u(x_i)+u(x_i - \Delta x)}{(\Delta x)^2}]<em>{t_n} + O[(\Delta x)^2] \tag{7}<br>$$<br>其中 $O[(\Delta x)^2]$ 代表最后那个快要趋于0的残差项，因为平方项衰减得很快。<br>用下标 $i$ 表示空间位置， 下标 $n$ 表示观测时间点，则 $(7)$ 式可以表示为：<br>$$<br>{\frac{\partial^2 u}{\partial x^2}}\mid</em>{x_i,t_n} &#x3D; \frac{u_{i+1}^{n} - 2u_{i}^{n} +u_{i-1}^{n} }{(\Delta x)^2} + O[(\Delta x)^2] \tag{8}<br>$$<br>在接下来的有限差表达式中，都用 $u_{i}^{n}$ 来表示在场点 $x_i &#x3D;i\Delta x$ 和时间点 $t_n &#x3D; n\Delta t$处的场量。<br>同样的，对于场量关于时间的求导，可以类比于 $(8)$ 式表达为：<br>$$<br>{\frac{\partial^2 u}{\partial t^2}}\mid_{x_i,t_n} &#x3D; \frac{u_{i}^{n+1} - 2u_{i}^{n} +u_{i}^{n-1} }{(\Delta t)^2} + O[(\Delta t)^2] \tag{9}<br>$$</p>
+<h2 id="2-4-有限差求解一维波动方程"><a href="#2-4-有限差求解一维波动方程" class="headerlink" title="2.4 有限差求解一维波动方程"></a>2.4 有限差求解一维波动方程</h2><p>&emsp;&emsp;考虑</p>
+]]></content>
+      <categories>
+        <category>computational electrodynamics</category>
+      </categories>
+      <tags>
+        <tag>EM learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20231004</title>
+    <url>/2023/10/04/20231004/</url>
+    <content><![CDATA[<h3 id="20231004-星期三"><a href="#20231004-星期三" class="headerlink" title="20231004 星期三"></a>20231004 星期三</h3><p>空腹有氧一个小时打卡。回来吃了一根香蕉一盒蓝莓，giant 卖的苹果太好吃了，平均每天俩。</p>
+<p>这段时间生活有变得更好吗？还没有，继续努力吧！</p>
+]]></content>
+      <tags>
+        <tag>Live once</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Short Electric Dipole</title>
+    <url>/2023/08/26/Short%20Electric%20Dipole/</url>
+    <content><![CDATA[<h1 id="Short-Electric-Dipole-详解"><a href="#Short-Electric-Dipole-详解" class="headerlink" title="Short Electric Dipole 详解"></a>Short Electric Dipole 详解</h1><p>任何直天线都可认为是由大量很短的导体串接而成的，所以需要首先阐明短导体的辐射性能，然后再研究实际使用的长直导体。短的直导体通常称为短偶极子，尽管很短但仍是有限长度的。对于短而趋零的情况，则称无限小偶极子(infinitesimal dipole)。</p>
+<p><strong>8月26日更新：</strong><br>把目前遇到过的电场形式总结如下。虽然场量的形式有所不同，实则表示的同一个东西，有些时候是时域形式，有些时候是频域形式，又有些是电流源，有些又是用电荷源表示的。</p>
+<ol>
+<li><p>天线圣经(Balanis著)中，第三版中在(4-10b)，在本文中的式(64)<br>$$<br>E_\theta &#x3D; j\eta\frac{kI_0L\sin\theta}{4\pi\epsilon_0 r}\left[1+\frac{1}{jkr}-\frac{1}{(kr)^2}\right]e^{-jkr} \tag{64}<br>$$</p>
+</li>
+<li><p>在时域情况下用电荷源表示，在本文中的式(37)，式中的 $f$ 为电荷源。<br>$$<br>E_\theta &#x3D; \frac{\hat{r}\times(\hat{r}\times\hat{z})}{4\pi\epsilon_0 c^2 r}\left[\partial_t^2 f(t-\tau)\right]+\frac{3(\hat{r}\cdot\hat{z})\hat{r}-\hat{z}}{4\pi \epsilon_0 r^3}\left[f(t-\tau)+\tau\partial_t f(t-\tau)\right] \tag{37}<br>$$</p>
+</li>
+<li><p>对应的频域时用电流源表示，在本文中的式(30)<br>$$<br>E_\theta &#x3D; \frac{-j\omega\mu_0e^{-jkr}}{4\pi r}\left[-\hat{r}\times\hat{r}\times\vec{I}l+\left(-\frac{j}{kr}+\frac{1}{(kr)^2}\right)(3\hat{r}\hat{r}\cdot \vec{I}l-\vec{I}l)\right]  \tag{30}<br>$$</p>
+</li>
+<li><p>若考虑在远场时，可以得到常用的场量形式(在球坐标下)，在本文中的(39)<br>$$<br>E_\theta &#x3D; \frac{j\omega\mu_0 e^{-jkr}}{4\pi r}Il\sin\theta \tag{39}<br>$$</p>
+</li>
+</ol>
+<h2 id="（一）-Dyadic-Green’s-Function-in-free-space"><a href="#（一）-Dyadic-Green’s-Function-in-free-space" class="headerlink" title="（一） Dyadic Green’s Function in free space"></a>（一） Dyadic Green’s Function in free space</h2><p>首先给出Maxwell方程组：<br>$$<br>\begin{align}<br>    Ampere’s<del>Law: ~\nabla\times \vec{H} &amp;&#x3D; \vec{J}+\frac{\partial \vec{D}}{\partial t}   \tag{1}  \<br>    Faraday’s</del>Law:<del>\nabla \times \vec{E} &amp;&#x3D; -\frac{\partial \vec{B}}{\partial t}  \tag{2}  \<br>    Gaussian’s</del>Law:<del>\nabla \cdot \vec{D} &amp;&#x3D; \rho  \tag{3}  \<br>    Gaussian’s</del>Law:~\nabla \cdot \vec{B} &amp;&#x3D; 0  \tag{4}  \<br>\end{align}<br>$$</p>
+<h3 id="1-Vector-and-scalar-potentials"><a href="#1-Vector-and-scalar-potentials" class="headerlink" title="1. Vector and scalar potentials"></a>1. Vector and scalar potentials</h3><p>因为 $\nabla \cdot B&#x3D;0$，根据 $\nabla \cdot \nabla \times A &#x3D; 0$，可以定义一个矢量位函数 $A$<br>$$<br>\vec{B}&#x3D;\nabla \times \vec{A} \tag{5}<br>$$<br>因此上面的(2)式变为<br>$$<br>\nabla \times (\vec{E}+\frac{\partial{\vec{A}}}{\partial t}) &#x3D; 0 \tag{6}<br>$$<br>于是，根据 $\nabla \times \nabla\phi &#x3D; 0$，可以定义一个标量位函数 $\phi$<br>$$<br>\vec{E}&#x3D;-\frac{\partial \vec{A}}{\partial{t}}-\nabla \phi \tag{7}<br>$$</p>
+<p>在空气中，介电常数和磁导率分别为 $\epsilon &#x3D; \epsilon_0 &#x3D; 8.85 \times 10^{-12} F&#x2F;m$，$\mu &#x3D; \mu_0 &#x3D; 4\pi \times 10^{-7} H&#x2F;m$。自由空间中的本构关系为 $\vec{D} &#x3D; \epsilon_0 \vec{E}$ 和 $\vec{B} &#x3D; \mu_0 \vec{H}$。</p>
+<p>接下来借用本构关系和Maxwell方程中的(1)和(3)，构造出只含位函数的方程，根据(3)式可以得到<br>$$<br>\nabla \cdot (\epsilon_0 \vec{E}) &#x3D; \rho  \<br>\nabla \cdot \vec{E} &#x3D; \frac{\rho}{\epsilon_0} \<br>\nabla \cdot \left(-\frac{\partial \vec{A}}{\partial{t}}-\nabla \phi\right) &#x3D; \frac{\rho}{\epsilon_0} \<br>$$</p>
+<p>由 nabla operator 的性质 $\nabla^2 f &#x3D; \nabla \cdot (\nabla f) $</p>
+<p>$$<br>\nabla^2 \phi +\frac{\partial}{\partial t}(\nabla \cdot \vec{A}) &#x3D; -\frac{\rho}{\epsilon_0}  \tag{8}<br>$$<br>根据(1)式可以得到<br>$$<br>\nabla\times \vec{H} &#x3D; \vec{J}+\frac{\partial \vec{D}}{\partial t}\<br>\nabla\times \frac{\vec{B}}{\mu_0} &#x3D; \vec{J} + \epsilon_0 \frac{\partial{\vec{E}}}{\partial{t}}\<br>\nabla\times(\nabla \times \vec{A}) &#x3D; \mu_0\vec{J}+\mu_0 \epsilon_0\frac{\partial}{\partial{t}}\left(-\frac{\partial \vec{A}}{\partial{t}}-\nabla \phi\right)<br>$$<br>由$\nabla^2\vec{A} &#x3D; \nabla(\nabla\cdot \vec{A})-\nabla\times\nabla\times\vec{A}$ 可以得到<br>$$<br>\nabla(\nabla\cdot \vec{A}) - \nabla^2\vec{A} &#x3D; \mu_0\vec{J}+\frac{1}{c^2}\left(-\frac{\partial^2 \vec{A}}{\partial{t^2}}-\frac{\partial (\nabla \phi)}{\partial t}\right) \<br>\nabla^2\vec{A} - \frac{1}{c^2}\frac{\partial^2 \vec{A}}{\partial{t^2}}-\nabla\left(\nabla\cdot \vec{A}+\frac{1}{c^2}\frac{\partial\phi}{\partial t}\right) &#x3D; -\mu_0\vec{J}  \tag{9}<br>$$</p>
+<p>因此得到的方程组为<br>$$<br>\nabla^2 \phi +\frac{\partial}{\partial t}(\nabla \cdot \vec{A}) &#x3D; -\frac{\rho}{\epsilon_0}  \tag{8}<br>$$<br>$$<br>\nabla^2\vec{A} - \frac{1}{c^2}\frac{\partial^2 \vec{A}}{\partial{t^2}}-\nabla\left(\nabla\cdot \vec{A}+\frac{1}{c^2}\frac{\partial\phi}{\partial t}\right) &#x3D; -\mu_0\vec{J}  \tag{9}<br>$$</p>
+<p>可以看出上式中 $\vec{A}$ 和 $\phi$ 的解并不唯一，因此采用 Lorenz condition 来简化这个方程。Lorenz规范如下<br>$$<br>\nabla \cdot \vec{A} + \frac{1}{c^2}\frac{\partial \phi}{\partial t}&#x3D;0 \tag{10}<br>$$<br>在这个规范下，(8) 和 (9) 可以转换为<br>$$<br>\nabla^2 \phi - \frac{1}{c^2}\frac{\partial^2\phi}{\partial{t^2}} &#x3D; -\frac{\rho}{\epsilon_0}  \tag{11}<br>$$<br>$$<br>\nabla^2\vec{A} - \frac{1}{c^2}\frac{\partial^2 \vec{A}}{\partial{t^2}} &#x3D; -\mu_0\vec{J}  \tag{12}<br>$$<br>即真空中的Maxwell方程组可以转换为 (10)-(12) 式。</p>
+<p>对于 time-harmonicsource，上式可以转换为<br>$$<br>\nabla \cdot \vec{A}-\frac{i\omega}{c^2}\phi &#x3D; 0 \tag{13}<br>$$<br>$$<br>\nabla^2\phi+k^2\phi &#x3D; -\frac{\rho}{\epsilon_0} \tag{14}<br>$$<br>$$<br>\nabla^2\vec{A}+k^2\vec{A} &#x3D; -\mu_0 \vec{J} \tag{15}<br>$$</p>
+<p>其中的转换关系为<br>$$<br>\frac{\partial^n}{\partial t^n} &#x3D; (-i\omega)^n<br>$$</p>
+<h3 id="2-Dyadic-Green’s-fuction"><a href="#2-Dyadic-Green’s-fuction" class="headerlink" title="2. Dyadic Green’s fuction"></a>2. Dyadic Green’s fuction</h3><p>为了分析由任意电流分布辐射的电磁场，我们需要借助 Dyadic Green’s Function 进行分析计算。</p>
+<p><strong>总体思路为：<br>(1) 求解 $\vec{J}$<br>(2) 再由式 (15) 求解 $\vec{A}$<br>(3) 再由式 (13) 求解 $\phi$<br>(4) 最后由位函数方程 (5) 和 (7) 求解得到场 $\vec{E}$ 和 $\vec{B}$</strong></p>
+<p>根据 (13) 和 (14)， 标量位函数和矢量位函数的每个分量可以表示为<br>$$<br>\nabla^2\Psi(\vec{r})+k^2\Psi(\vec{r})&#x3D;-f(\vec{r}) \tag{16}<br>$$<br>其中 $f(\vec{r})$ 表示任意的源分布。可以看出由源 $f(\vec{r})$ 和由其产生的场 $\Psi(\vec{r})$ 之间是线性的关系，故我们可以将 (16) 式看做是一个线性系统，其中 $f(\vec{r})$ 是输入，$\Psi(\vec{r})$ 是其产生的输出。&#x3D;&#x3D;当输入为一个冲激函数 $\delta$ 时，其产生的脉冲响应函数即为格林函数。&#x3D;&#x3D;<br>假设有一个点源置于 $\vec{r}’$，即 $f(\vec{r})&#x3D;\delta(\vec{r}-\vec{r}’)$，故该方程的解即为格林函数 $g(\vec{r},\vec{r}’)$<br>$$<br>(\nabla^2+k^2)g(\vec{r},\vec{r}’) &#x3D; -\delta(\vec{r}-\vec{r}’) \tag{17}<br>$$<br>因为有 $f(\vec{r})&#x3D;\iiint f(\vec{r})\delta(\vec{r}-\vec{r}’)d\vec{r}’ $，故式(16) 可以表示为<br>$$<br>\Psi(\vec{r})&#x3D;\iiint g(\vec{r},\vec{r}’)f(\vec{r}’)d\vec{r}’ \tag{18}<br>$$<br>为了得到 $g(\vec{r},\vec{r}’)$，将上式简化，考虑 $\vec{r}’&#x3D;0$，即把源放在原点时的情况，因此 (17) 式可以化简为<br>$$<br>(\nabla^2+k^2)g(\vec{r}) &#x3D; -\delta(\vec{r}) \tag{19}<br>$$</p>
+<p>求解该方程的过程已省略，最后可以得到格林方程为<br>$$<br>g(\vec{r})&#x3D;\frac{e^{-jkr}}{4\pi r}<br>$$<br>其中 $r$ 是从观察点到原点的距离。转换为原来的坐标，只需将 $r$ 换为 $|\vec{r}-\vec{r}’|$，因此该标量格林函数可以表示为<br>$$<br>g(\vec{r},\vec{r}’)&#x3D;\frac{e^{-jk|\vec{r}-\vec{r}’|}}{4\pi |\vec{r}-\vec{r}’|}  \tag{20}<br>$$<br>故对于一个任意的点源，将式 (20) 带入 (18) 可以得到位函数通用表达式为<br>$$<br>\Psi(\vec{r})&#x3D;\iiint \frac{e^{-jk|\vec{r}-\vec{r}’|}}{4\pi |\vec{r}-\vec{r}’|}f(\vec{r}’)d\vec{r}’ \tag{21}<br>$$<br>因此可以得到位函数 $\vec{A}$ 和 $\phi$，同时也是方程 (14) 和 (15) 的解<br>$$<br>\Phi(\vec{r})&#x3D;\iiint \frac{e^{-jk|\vec{r}-\vec{r}’|}}{4\pi |\vec{r}-\vec{r}’|}\frac{\rho(\vec{r}’)}{\epsilon_0}d\vec{r}’ \tag{22}<br>$$<br>$$<br>\vec{A}(\vec{r})&#x3D;\iiint \frac{e^{-jk|\vec{r}-\vec{r}’|}}{4\pi |\vec{r}-\vec{r}’|}\mu_0 J(\vec{r}’)d\vec{r}’ \tag{23}<br>$$<br>得到位函数后可以求得场<br>$$<br>\vec{B}(\vec{r})&#x3D;\nabla\times\vec{A}&#x3D;\nabla\times\iiint \frac{e^{-jk|\vec{r}-\vec{r}’|}}{4\pi |\vec{r}-\vec{r}’|}\mu_0 J(\vec{r}’)d\vec{r}’ \tag{24}<br>$$<br>$$<br>\vec{H}(\vec{r})&#x3D;\frac{\vec{B}}{\mu_0}&#x3D;\nabla\times\iiint \frac{e^{-jk|\vec{r}-\vec{r}’|}}{4\pi |\vec{r}-\vec{r}’|}J(\vec{r}’)d\vec{r}’ \tag{25}<br>$$<br>最后得到电场分量为<br>$$<br>\vec{E}(\vec{r})&#x3D;-j\omega\mu_0(\overline{\overline{I}}+\frac{1}{k^2}\nabla\nabla)\cdot\iiint \frac{e^{-jk|\vec{r}-\vec{r}’|}}{4\pi |\vec{r}-\vec{r}’|}J(\vec{r}’)d\vec{r}’ \tag{26}<br>$$<br>其中<br>$$<br>\overline{\overline{G}}(\vec{r}-\vec{r}’)&#x3D;(\overline{\overline{I}}+\frac{1}{k^2}\nabla\nabla)g(\vec{r}-\vec{r}’) \tag{27}<br>$$<br>为 &#x3D;&#x3D;dyadic Green’s function&#x3D;&#x3D;. 故 $\vec{E}$最终形式为<br>$$<br>\vec{E}(\vec{r})&#x3D;-j\omega\mu_0\iiint \overline{\overline{G}}(\vec{r}-\vec{r}’)\cdot J(\vec{r}’)d\vec{r}’ \tag{28}<br>$$</p>
+<h2 id="（二）-Exact-solution-for-Hertzian-dipole"><a href="#（二）-Exact-solution-for-Hertzian-dipole" class="headerlink" title="（二） Exact solution for Hertzian dipole"></a>（二） Exact solution for Hertzian dipole</h2><p>对于一个任意的在原点的 Hertzian dipole， $\vec{J}(\vec{r})&#x3D;\vec{I}l\delta (\vec(r))$ ，由式 (25) 可以得到磁场为</p>
+<p>$$<br>\begin{align}<br>    \vec{H}(\vec{r}) &amp;&#x3D; \nabla\times\left(\frac{e^{-jkr}}{4\pi r}\vec{I}l\right)    \<br>    &amp;&#x3D; \nabla \frac{e^{-jkr}}{4\pi r} \times \vec{I}l \<br>     &amp;&#x3D; \frac{\partial}{\partial r}\left(\frac{e^{-jkr}}{4\pi r}\right)\times \vec{I}l \<br>     &amp;&#x3D; \frac{e^{-jkr}}{4\pi r} \hat{r} \times \vec{I}l \left(-jk-\frac{1}{r}\right) \<br>     &amp;&#x3D; \hat{r} \times \vec{I}l \frac{-jke^{-jkr}}{4\pi r}\left(1-\frac{j}{kr}\right)  \tag{29}<br>\end{align}<br>$$</p>
+<p>根据 Ampere’s Law 可以得到电场</p>
+<p>$$<br>\begin{align}<br>    \vec{E}(\vec{r})&amp;&#x3D;\frac{1}{j\omega \epsilon_0}\nabla\times \vec{H}(\vec{r})    \<br>    &amp;&#x3D;\frac{1}{j\omega \epsilon_0}\nabla\times \left[ \hat{r} \times \vec{I}l \frac{e^{-jkr}}{4\pi r}\left(-jk-\frac{1}{r}\right)\right] \<br>    &amp;&#x3D; \frac{-j\omega\mu_0e^{-jkr}}{4\pi r}\left[-\hat{r}\times\hat{r}\times\vec{I}l+\left(-\frac{j}{kr}+\frac{1}{(kr)^2}\right)(3\hat{r}\hat{r}\cdot \vec{I}l-\vec{I}l)\right]  \tag{30}<br>\end{align}<br>$$</p>
+<p>远场和近场：<br>对于远场(辐射场) (kr&gt;&gt;1)<br>$$<br>\vec{H}(\vec{r}) &#x3D; \frac{-jke^{-jkr}}{4\pi r}\hat{r}\times\vec{I}l \tag{31}<br>$$<br>$$<br>\vec{E}(\vec{r}) &#x3D; \frac{j\omega\mu_0 e^{-jkr}}{4\pi r}\hat{r}\times\hat{r}\times\vec{I}l \tag{32}<br>$$</p>
+<p>对于近场(kr&lt;&lt;1)<br>$$<br>\vec{H}(\vec{r}) &#x3D; -\hat{r}\times\vec{I}l\frac{1}{4\pi r^2} \tag{33}<br>$$<br>$$<br>\vec{E}(\vec{r}) &#x3D; \frac{-j}{4\pi\omega\epsilon_0  r^3}(3\hat{r}\hat{r}\cdot\vec{I}l-\vec{I}l) \tag{34}<br>$$</p>
+<p>因为 current dipole moment $Il$ 是 static electric dipole moment $ql$ 的一阶导，即<br>$$<br>Il &#x3D; j\omega(ql) \tag{35}<br>$$<br>此处我们将 $ql$ 替换成任意电荷源<br>$$<br>\vec{I}l &#x3D;Il\hat{z}&#x3D;j\omega(ql)\hat{z}&#x3D;j\omega f \hat{z} \tag{36}<br>$$<br>故式 (30) 又可写为<br>$$<br>\begin{align}<br>    \vec{E}(\vec{r})&amp;&#x3D;\frac{-j\omega\mu_0e^{-jkr}}{4\pi r}\left[-\hat{r}\times\hat{r}\times\vec{I}l+\left(-\frac{j}{kr}+\frac{1}{(kr)^2}\right)(3\hat{r}\hat{r}\cdot \vec{I}l-\vec{I}l)\right] \<br>    &amp;&#x3D; \frac{-j\omega\mu_0e^{-jkr}}{4\pi r}\left[\hat{r}\times\hat{r}\times j\omega f \hat{z}+\left(\frac{j}{kr}+\frac{1}{(kr)^2}\right)(3\hat{r}\hat{r}\cdot j\omega f \hat{z}-j\omega f \hat{z})\right] \<br>    &amp;&#x3D; \frac{-\mu_0e^{-jkr}}{4\pi r}\left[\hat{r}\times(\hat{r}\times\hat{z})\cdot (j\omega)^2 f+\left(\frac{j}{kr}+\frac{1}{(kr)^2}\right)\left(3\hat{r}\hat{r}\cdot (j\omega)^2 f \hat{z}-(j\omega)^2 f \hat{z}\right)\right] \<br>    &amp;&#x3D; \frac{-\mu_0e^{-jkr}}{4\pi r}\left[\hat{r}\times(\hat{r}\times\hat{z})\cdot (j\omega)^2 f\right]+\frac{-\mu_0e^{-jkr}}{4\pi r}\left[\left(\frac{j}{kr}+\frac{1}{(kr)^2}\right)\left(3\hat{r}\hat{r}\cdot (j\omega)^2 f \hat{z}-(j\omega)^2 f \hat{z}\right)\right] \<br>    &amp;&#x3D; \frac{-\mu_0e^{-jkr}}{4\pi r}\left[\hat{r}\times(\hat{r}\times\hat{z})\cdot (j\omega)^2 f\right]+\left(\frac{-j\mu_0e^{-jkr}}{4\pi kr^2}-\frac{\mu_0e^{-jkr}}{4\pi k^2r^3}\right)\left[\left(3(\hat{r}\cdot\hat{z})\hat{r}-\hat{z}\right)(j\omega)^2 f\right] \<br>    &amp;&#x3D; \frac{-\mu_0e^{-jkr}}{4\pi r}\left[\hat{r}\times(\hat{r}\times\hat{z})\cdot (j\omega)^2 f\right]-\frac{\mu_0e^{-jkr}}{4\pi kr^3}\left(jr+\frac{1}{k}\right)\left(3(\hat{r}\cdot\hat{z})\hat{r}-\hat{z}\right)(j\omega)^2 f  \<br>    &amp;&#x3D; \frac{-\mu_0e^{-jkr}}{4\pi r}\left[\hat{r}\times(\hat{r}\times\hat{z})\cdot (j\omega)^2 f\right]-\frac{\mu_0e^{-jkr}}{4\pi r^3}\left(\frac{jr}{k}+\frac{1}{k^2}\right)\left(3(\hat{r}\cdot\hat{z})\hat{r}-\hat{z}\right)(j\omega)^2 f  \<br>    &amp;&#x3D; \frac{-\mu_0e^{-jkr}}{4\pi r}\left[\hat{r}\times(\hat{r}\times\hat{z})\cdot (j\omega)^2 f\right]-\frac{\mu_0e^{-jkr}}{4\pi r^3}\left(-rc(j\omega)-c^2\right)\left(3(\hat{r}\cdot\hat{z})\hat{r}-\hat{z}\right)f ~~ 由于(k&#x3D;\frac{\omega}{c}), \tau&#x3D;\frac{r}{c} \<br>    &amp;&#x3D; \frac{-\mu_0e^{-jkr}}{4\pi r^3}\left[\hat{r}\times(\hat{r}\times\hat{z})\cdot (j\omega)^2 f\right]+\frac{c^2\mu_0e^{-jkr}}{4\pi r^3}\left(\frac{r}{c}(j\omega)f+f\right)\left(3(\hat{r}\cdot\hat{z})\hat{r}-\hat{z}\right) \<br>    &amp;&#x3D; \frac{\hat{r}\times(\hat{r}\times\hat{z})}{4\pi\epsilon_0 c^2 r}\left[(j\omega)^2 f\cdot e^{-jkr} \right]+\frac{3(\hat{r}\cdot\hat{z})\hat{r}-\hat{z}}{4\pi \epsilon_0 r^3}\left[\tau(j\omega)fe^{-jkr}+fe^{-jkr}\right] ~~  由于e^{-jkr}&#x3D;e^{-j\omega\frac{r}{c}}&#x3D;e^{-j\omega\tau}\<br>    &amp;&#x3D; \frac{\hat{r}\times(\hat{r}\times\hat{z})}{4\pi\epsilon_0 c^2 r}\left[\partial_t^2 f(t-\tau)\right]+\frac{3(\hat{r}\cdot\hat{z})\hat{r}-\hat{z}}{4\pi \epsilon_0 r^3}\left[f(t-\tau)+\tau\partial_t f(t-\tau)\right] \tag{37} \<br>\end{align}<br>$$<br>解析：式 (37) 为时域情况下的表达式。</p>
+<p>(1) 第一部分 $\left[\partial^2_t f(t-\tau)\right]$ 是 Radiation field, proportional to the acceleration of the charge. (二次导即为加速度)</p>
+<p>(2) 第二部分 $\left[\tau \partial_t f(t-\tau)\right]$  是 induction field. Proportional to speed of charge.(一次导即为速度)</p>
+<p>(3) 第三部分 $\left[f(t-\tau)\right]$  是  Electrical field of static dipole which decays by $\frac{1}{r^3}$.</p>
+<p>如果在球坐标下，<br>$$<br>\vec{I}l &#x3D;Il\hat{z}&#x3D; Il\cos\theta\hat{r}-Il\sin\theta\hat{\theta} \tag{38}<br>$$</p>
+<p>(30) 式可写为<br>（1）辐射场 (kr&gt;&gt;1)<br>$$<br>\begin{align}<br>    \vec{E}(\vec{r}) &amp;&#x3D; \frac{j\omega\mu_0 e^{-jkr}}{4\pi r}\hat{r}\times\hat{r}\times\vec{I}l \<br>    &amp;&#x3D; \frac{j\omega\mu_0 e^{-jkr}}{4\pi r}\hat{r}\times\hat{r}\times(Il\cos\theta\hat{r}-Il\sin\theta\hat{\theta}) \<br>    &amp;&#x3D;\frac{j\omega\mu_0 e^{-jkr}}{4\pi r}Il\sin\theta\hat{\theta} \tag{39}<br>\end{align}<br>$$</p>
+<p>（1）近场 (kr&lt;&lt;1)<br>$$<br>\begin{align}<br>    \vec{E}(\vec{r}) &amp;&#x3D; \frac{-j}{4\pi\omega\epsilon_0  r^3}(3\hat{r}\hat{r}\cdot\vec{I}l-\vec{I}l) \<br>    &amp;&#x3D;\frac{-j}{4\pi\omega\epsilon_0  r^3}\left[3\hat{r}\hat{r}\cdot(Il\cos\theta\hat{r}-Il\sin\theta\hat{\theta})-(Il\cos\theta\hat{r}-Il\sin\theta\hat{\theta}))\right] \<br>    &amp;&#x3D;\frac{-j}{4\pi\omega\epsilon_0  r^3}\left[3Il\cos\theta\hat{r}-Il\cos\theta\hat{r}+Il\sin\theta\hat{\theta}\right] \<br>    &amp;&#x3D;\frac{Il}{j4\pi\omega\epsilon_0  r^3}\left(2\cos\theta\hat{r}+\sin\theta\hat{\theta}\right) \tag{40}<br>\end{align}<br>$$</p>
+<h2 id="（三）-天线圣经中的表示-Solution-in-Balanis"><a href="#（三）-天线圣经中的表示-Solution-in-Balanis" class="headerlink" title="（三） 天线圣经中的表示 Solution in Balanis"></a>（三） 天线圣经中的表示 Solution in Balanis</h2><p>在分析天线或辐射系统时，波从源点到场点的传播时间是极其重要的，偶极子上各点的电流并非同时作用于场点 $P$，而是存在着由射径与距离 $r$ 之差引起的时延。相应地，将电流 $I$ 表示为瞬时形式<br>$$<br>I &#x3D; I_0 e^{j\omega t} \tag{41}<br>$$</p>
+<p>该电流的瞬时传播效应可采用洛伦兹的传播(滞后)时间表示法，写成<br>$$<br>[I]&#x3D;I_0e^{j\omega [t-(r&#x2F;c)]} \tag{42}<br>$$<br>式中 $[I]$ 称为滞后电流。时间滞后 $r&#x2F;c$ 导致相位滞后 $\omega r&#x2F;c &#x3D; 2\pi f r&#x2F;c$ (弧度) $&#x3D; 360^o t&#x2F;T$， 即 (42) 中的方括号表明该量是电流的滞后效应。在距离电流元 $r$ 处，时刻 $t$ 的电场波动是由先前时刻 $t-r&#x2F;c$ 的电流 $[I]$ 所造成的，而 $r&#x2F;c$ 则是波以光速行进距离 $r$ 所历经的时间间隔。<br>偶极子所产生的电场和磁场可分别展开为矢量位和标量位。<br>$$<br>A_z &#x3D; \frac{\mu_0}{4\pi}\int_{-L&#x2F;2}^{L&#x2F;2} \frac{[I]}{s} dz \tag{43}<br>$$<br>其中 $[I]$ 为滞后电流<br>$$<br>[I]&#x3D; I_0 e^{j\omega [t-(s&#x2F;c)]}  \tag{44}<br>$$<br>在上述式子中，$z$ 为原点至导体上一点的距离，$I_0$ 为电流的时间峰值(沿偶极子均匀分布)。若场点与偶极子相距远大于其长度($r]\ggg L$)，且波长也远大于其长度($\lambda\ggg L$)，故令 $s&#x3D;r$ 而忽略导体不同部分所贡献场的相位差异，则式(43)中的被积函数可认为是常数，积分结果变为<br>$$<br>A_z &#x3D;\frac{\mu_0 LI_0 e^{j\omega[t-(r&#x2F;c)]}}{4\pi r}  \tag{45}<br>$$<br>类似地，电荷分布的滞后标量位 $V$ 可写为<br>$$<br>V &#x3D; \frac{1}{4\pi \epsilon_0}\int_V \frac{[\rho]}{s} d\tau  \tag{46}<br>$$<br>式中 $[\rho]$ 是滞后电荷密度<br>$$<br>[\rho]&#x3D;\rho_0 e^{j\omega[t-(s&#x2F;c)]}   \tag{47}<br>$$<br>由于偶极子情况下，电流集中在端点区域，式 (46)可化简为<br>$$<br>V &#x3D; \frac{1}{4\pi \epsilon_0}{\frac{[q]}{s_1}-\frac{[q]}{s_2} }   \tag{48}<br>$$<br>由 $\frac{dq}{dt}&#x3D;I$ 和式(44)可以得到<br>$$<br>[q]&#x3D;\int [I]dt &#x3D; I_0 \int e^{j\omega [t-(s&#x2F;c)]} dt &#x3D; \frac{[I]}{j\omega}  \tag{49}<br>$$<br>将其带入(48)式可以得到<br>$$<br>V &#x3D; \frac{I_0}{4\pi \epsilon_0 j\omega}\left[\frac{e^{j\omega [t-(s_1&#x2F;c)]}}{s_1}-\frac{e^{j\omega [t-(s_2&#x2F;c)]}}{s_2}\right]  \tag{50}<br>$$<br>当 $r\ggg L$ 时，连接偶极子端点与场点 $P$ 的直线可认为是平行的，其长度分别为<br>$$<br>s_1 &#x3D; r-\frac{L}{2}\cos\theta   \tag{51}<br>$$<br>和<br>$$<br>s_2 &#x3D; r+\frac{L}{2}\cos\theta   \tag{52}<br>$$<br>将其带入式(50)，可推出短电偶极子的电场表达式<br>$$<br>E_\theta &#x3D; \frac{I_0 L\sin\theta e^{j\omega [t-(r&#x2F;c)]}}{4\pi \epsilon_0}\left(\frac{j\omega}{c^2r}+\frac{1}{cr^2}+\frac{1}{j\omega r^3}\right) \tag{53}<br>$$<br>对应的磁场分量为<br>$$<br>H_\Phi &#x3D; \frac{I_0 L\sin\theta e^{j\omega [t-(r&#x2F;c)]}}{4\pi}\left(\frac{j\omega}{cr}+\frac{1}{r^2}\right) \tag{54}<br>$$<br>对于 $r$ 非常大的场点，远场处 $E_r\approx 0$，因此只有两个有效分量 $E_\theta$ 和 $H_\Phi$ (所以上面也懒得写出其他分量了)。故在远场条件下<br>$$<br>E_\theta &#x3D; \frac{j\omega I_0 L\sin\theta e^{j\omega [t-(r&#x2F;c)]}}{4\pi \epsilon_0 c^2r} &#x3D; j\frac{I_0\beta L}{4\pi\epsilon_0 cr}\sin\theta e^{j\omega [t-(r&#x2F;c)]}    \tag{55}<br>$$<br>$$<br>H_\Phi &#x3D; \frac{j\omega I_0 L\sin\theta e^{j\omega [t-(r&#x2F;c)]}}{4\pi cr}&#x3D;j\frac{I_0\beta L}{4\pi r}\sin\theta e^{j\omega [t-(r&#x2F;c)]}   \tag{56}<br>$$</p>
+<p>考虑频率非常低的准静态或直流情况，由于<br>$$<br>[I] &#x3D; I_0 e^{j\omega [t-(r&#x2F;c)]} &#x3D; j\omega [q]  \tag{57}<br>$$<br>故式(55)和(56)可改写为<br>$$<br>E_\theta &#x3D; \frac{[q] L\sin\theta}{4\pi \epsilon_0}\left(-\frac{\omega^2}{c^2r}+\frac{j\omega}{cr^2}+\frac{1}{r^3}\right)   \tag{58}<br>$$<br>$$<br>H_\Phi &#x3D; \frac{[I]L\sin\theta}{4\pi}\left(\frac{j\omega}{cr}+\frac{1}{r^2}\right) \tag{59}<br>$$<br>在低频情况下 $\omega \rightarrow 0$，分子中含有因子 $\omega$ 的项都可以忽略，还可有<br>$$<br>[q]&#x3D;q_0 e^{j\omega [t-(r&#x2F;c)]} &#x3D; q_0   \tag{60}<br>$$<br>且<br>$$<br>[I]&#x3D;I_0 \tag{61}<br>$$<br>故各场量变为<br>$$<br>E_\theta &#x3D; \frac{q_0 L\sin\theta}{4\pi\epsilon_0 r^3}  \tag{62}<br>$$<br>$$<br>H_\Phi &#x3D; \frac{I_0 L\sin\theta}{4\pi r^2}   \tag{63}<br>$$</p>
+<p>对于式(53)，当不考虑时间项时，又可以表示为<br>$$<br>\begin{align}<br>    E_\theta &amp;&#x3D; \frac{I_0 L\sin\theta e^{-j\omega\frac{r}{c}}}{4\pi \epsilon_0}\left(\frac{j\omega}{c^2r}+\frac{1}{cr^2}+\frac{1}{j\omega r^3}\right)  \<br>    &amp;&#x3D; j\omega\frac{I_0L\sin\theta}{4\pi\epsilon_0 r}\left[\frac{1}{c^2}+\frac{1}{j\omega cr}+\frac{1}{(j\omega r)^2}\right]e^{-j\omega\frac{r}{c}} \<br>    &amp;&#x3D; j\omega\frac{I_0L\sin\theta}{4\pi\epsilon_0 c^2 r}\left[1+\frac{c}{j\omega r}+\frac{c^2}{(j\omega r)^2}\right]e^{-jkr} ~~  由于e^{-jkr}&#x3D;e^{-j\omega\frac{r}{c}}\<br>    &amp;&#x3D; j\omega\frac{\mu_0\epsilon_0 I_0L\sin\theta}{4\pi\epsilon_0 r}\left[1+\frac{c}{j\omega r}+\frac{c^2}{(j\omega r)^2}\right]e^{-jkr}~~  由于c^2&#x3D;\frac{1}{\mu_0\epsilon_0}\<br>    &amp;&#x3D;j\eta\frac{kI_0L\sin\theta}{4\pi\epsilon_0 r}\left[1+\frac{1}{jkr}-\frac{1}{(kr)^2}\right]e^{-jkr}~~  由于k&#x3D;\omega\sqrt{\mu_0\epsilon_0},\eta&#x3D;\sqrt{\frac{\mu_0}{\epsilon_0}}, k&#x3D;\frac{\omega}{c}  \tag{64}\<br>\end{align}<br>$$<br>故式子(64)即为 Balanis 天线圣经中的 (4-10b)式。</p>
+]]></content>
+      <categories>
+        <category>Antenna</category>
+      </categories>
+      <tags>
+        <tag>EM learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>信号与系统</title>
+    <url>/2023/09/13/%E6%97%B6%E5%9F%9F%E8%BD%AC%E9%A2%91%E5%9F%9F/</url>
+    <content><![CDATA[<h1 id="信号与系统"><a href="#信号与系统" class="headerlink" title="信号与系统"></a>信号与系统</h1><p>大二学的信号与系统也白学了。。。还是得从头学一遍。最近发现有好多地方需要用到傅里叶变换作为时域信号和频域信号之间的桥梁，索性快速地将信号与系统再回顾一遍了。此处大多数引用的是B站浙大胡浩基老师的课程，讲得真好！</p>
+<h2 id="P1-典型的信号"><a href="#P1-典型的信号" class="headerlink" title="P1 典型的信号"></a>P1 典型的信号</h2><ol>
+<li><p>周期信号：<br>$$<br>x(t) &#x3D; x(t+mT)~~~~~~  m\in Z \<br>x[n] &#x3D; x[n+mN]~~~~~~  m\in Z,~N是一个自然数<br>$$</p>
+</li>
+<li><p>功率信号和能量信号<br>设信号 $x(t)$ 为电压或电流。<br>则它在 $1\Omega$ 的电阻上的瞬时功率为：<br>$$<br>p(t) &#x3D; |x(t)|^2<br>$$<br>在 $t_1\leq t \leq t_2$ 内消耗的能量为：<br>$$<br>E &#x3D; \int_{t_1}^{t_2} |x(t)|^2 dt<br>$$<br>当 $T&#x3D;(t_2 - t_1)\to\infty$ 时，总能量 $E$ 和平均功率 $P$ 分别定义为：<br>$$<br>E &#x3D; \lim \limits_{t_2-t_1 \to \infty} \int_{t_1}^{t_2} |x(t)|^2 dt<br>$$<br>$$<br>P &#x3D; \lim \limits_{t_2-t_1 \to \infty} \frac{1}{t_2-t_1}\int_{t_1}^{t_2} |x(t)|^2 dt<br>$$<br>同理，对于离散信号：<br>$$<br>E &#x3D; \sum_{n&#x3D;-\infty}^{\infty}|x[n]|^2<br>$$<br>$$<br>P &#x3D; \lim \limits_{N \to \infty} \frac{1}{2N+1}\sum_{n&#x3D;-N}^{N}|x[n]|^2<br>$$<br>如果信号 $x(t)$ 的能量 $E$ 满足： $0&lt;E&lt;\infty$，而 $P&#x3D;0$，则为能量(有限)信号。<br>如果信号 $x(t)$ 的功率 $P$ 满足： $0&lt;P&lt;\infty$，而 $E&#x3D;\infty$，则为功率(有限)信号。</p>
+</li>
+<li><p>抽样函数<br>$$<br>Sa(t)&#x3D;\frac{sin(t)}{t}<br>$$<br>两个性质：<br>$$<br>\int_{-\infty}^{+\infty} \frac{sin(t)}{t} dt &#x3D;\pi<br>$$<br>$$<br>\int_{0}^{+\infty} \frac{sin(t)}{t} dt &#x3D;\int_{-\infty}^{0} \frac{sin(t)}{t} dt&#x3D; \frac{\pi}{2}  ~~~(偶函数)<br>$$</p>
+</li>
+</ol>
+<p>对于任意一个离散信号，可以表示为<br>$$<br>x[n] &#x3D; \sum_{k&#x3D;-\infty}^{+\infty} x[k]\delta [n-k]<br>$$</p>
+<h2 id="P2-典型的系统"><a href="#P2-典型的系统" class="headerlink" title="P2 典型的系统"></a>P2 典型的系统</h2><p>主要有以下几种系统：线性系统，时不变系统，因果系统，稳定系统，无记忆系统。<br>线性系统判据：每一项都有 $x$，每一项的 $x$ 都是一次的。<br>时不变系统判据：$t$ 只在 $x$ 的括号里，$t$ 只能是 $t$ ，不能是 $2t$，$t^2$ 等其他函数。<br>因果系统：如果一个系统任何时刻输出只取决于现在和过去的输入，就称该系统为因果系统。判据：$x$ 括号里的数恒小于 $y$ 括号里的数。<br>无记忆系统：$y(t)$ 的值仅仅只依赖于 $x(t)$ 的值。判据：$x$ 与 $y$ 括号里的数完全相同。无记忆系统一定是因果系统。<br>稳定系统：若 $x(t)$ 有界，则 $y(t)$ 有界。</p>
+<h2 id="P3-线性时不变-LTI-系统时域分析"><a href="#P3-线性时不变-LTI-系统时域分析" class="headerlink" title="P3 线性时不变(LTI)系统时域分析"></a>P3 线性时不变(LTI)系统时域分析</h2><h3 id="离散LTI系统卷积公式"><a href="#离散LTI系统卷积公式" class="headerlink" title="离散LTI系统卷积公式"></a>离散LTI系统卷积公式</h3><p>单位脉冲序列：<br>$$<br>x[n]&#x3D;\delta [n]<br>$$<br>输入单位脉冲序列 $\delta [n]$ 到LTI系统得到的是单位脉冲响应 $h[n]$。<br>故对于任意输入 $x[n]$ 到LTI系统， 得到的输出 $y[n]$ 为<br>$$<br>y[n] &#x3D; x[n]\ast h[n]<br>$$<br>可以理解为将 $x[n]$ 表示为不同个经过变形后的单位脉冲序列的叠加，对于每一个单位脉冲序列，经过LTI系统后都会产生一个经过了相应变形的单位脉冲响应，将产生的所有的 $h[n]$ 叠加即为 $y[n]$。(详细举例解释可见胡老师课程P7开始部分) 啊….要五点了好困还没看到傅里叶出现！</p>
+<p>h[n] 是LTI系统唯一的标识，只要两个LTI系统的 h[n] 一样，则是相同系统。</p>
+<p>求解该卷积有两种方法：</p>
+<ol>
+<li>列表法<br> 第一步是确定 $y[n] &#x3D; x[n] \ast h[n]$ 的取值范围。即 $x[n]$ 的最小横坐标值加 $h[n]$ 的最小横坐标值即为 $y[n]$ 的最小横坐标值，最大横坐标值亦然。</li>
+</ol>
+<p>  (这个也很容易理解，比如说输入的$x[n]$可以分解为一系列变形的单位脉冲序列的叠加，假设分解后$x[n]$ 最左边的值为 $\delta [n+1]$，且对于一个LTI系统，它单位脉冲序列 $\delta [n]$ 产生的对应的单位脉冲响应 $h[n]$ 最左边的值为 $3\delta [n+1]$，即$x[n]$对单位脉冲序列的变形为向左移动了一位，故坐标为-1，$h[n]$ 最小坐标也为-1，将 $x[n]$ 输入LTI系统后，对应的脉冲响应也产生向左移动一位的变形，即最小坐标变为-1-1&#x3D;-2)。若 $x[n]$ 长度为 $N_1$，$h[n]$ 长度为 $N_2$， 则 $y[n]$ 的长度为 $N_1+N_2-1$</p>
+<ol start="2">
+<li>卷积公式法<br>$$<br>x[n]\ast h[n] &#x3D; \sum_{k&#x3D;-\infty}^{+\infty} x[k]h[n-k]&#x3D;\sum_{k&#x3D;-\infty}^{+\infty} x[k]h[-(k-n)]<br>$$<br>计算分为四步：翻转(取负)、平移(向右平移$n$个单位)、相乘、求和。<br>吃完晚饭了，回来接着学。。。</li>
+</ol>
+<h3 id="连续LTI系统卷积公式"><a href="#连续LTI系统卷积公式" class="headerlink" title="连续LTI系统卷积公式"></a>连续LTI系统卷积公式</h3><p>冲激函数 $\delta (t)$ (无限窄的方波)，跟上面离散信号中的单位脉冲函数区别一下。<br>将连续信号 $x(t)$ 用无数个冲激函数去做近似，近似过程在这里省略了，给出最后结论。若冲激函数 $\delta(t)$ 的冲激响应为 $h(t)$，则输入任意的连续信号 $x(t)$，它的响应将为：<br>$$<br>y(t) &#x3D; x(t)\ast h(t)&#x3D;\int_{-\infty}^{+\infty} x(\tau)h(t-\tau)d\tau<br>$$<br>胡老师有个神奇的观点，卷积的卷指的是翻转，积指的是相乘，哈哈哈哈。连续LTI系统的卷积公式可以直接求积分计算，或者类似于在离散里面的，画图，翻转、平移(分阶段)、相乘、求和(求取相交面积)。</p>
+<h3 id="冲激函数-delta-t-的性质"><a href="#冲激函数-delta-t-的性质" class="headerlink" title="冲激函数 $\delta (t)$ 的性质"></a>冲激函数 $\delta (t)$ 的性质</h3><p>性质1：<br>$$<br>\int_{-\infty}^{+\infty} \delta (t) dt &#x3D; 1<br>$$<br>性质2：<br>$$<br>\int_{-\infty}^{+\infty} x(t)\delta (t) dt &#x3D; x(0)<br>$$<br>性质3：<br>$$<br>x(t)\delta (t)&#x3D;x(0) \delta (t)<br>$$<br>$$<br>x(t)\delta (t-t_0)&#x3D;x(t_0) \delta (t-t_0)<br>$$<br>性质4：<br>$$<br>\delta (at) &#x3D; \frac{1}{|a|}\delta (t)<br>$$<br>$$<br>\delta (at+b) &#x3D; \frac{1}{|a|}\delta (t+\frac{b}{a})<br>$$</p>
+<h3 id="卷积的性质-连续和离散都同"><a href="#卷积的性质-连续和离散都同" class="headerlink" title="卷积的性质(连续和离散都同)"></a>卷积的性质(连续和离散都同)</h3><p>交换律：<br>$$<br>x(t) \ast h(t) &#x3D; h(t) \ast x(t)<br>$$<br>结合律：<br>$$<br>[x(t) \ast h_1 (t)] \ast h_2(t) &#x3D; [x(t) \ast h_2 (t)] \ast h_1(t)<br>$$<br>分配率：<br>$$<br>x(t) \ast [h_1 (t) + h_2 (t)] &#x3D; x(t) \ast h_1 (t) + x(t) \ast h_2 (t)<br>$$<br>微分器：<br>$$<br>\frac{d[x(t) \ast h(t)]}{dt} &#x3D; \frac{dx(t)}{dt} \ast h(t)<br>$$<br>不知道叫什么的性质：<br>$$<br>x(t + t_0) \ast h(t - t_0) &#x3D; x(t) \ast h(t)<br>$$<br>啊！终于要到傅里叶变换了</p>
+<h2 id="P4-连续信号频域分析-傅里叶变换"><a href="#P4-连续信号频域分析-傅里叶变换" class="headerlink" title="P4 连续信号频域分析(傅里叶变换)"></a>P4 连续信号频域分析(傅里叶变换)</h2><h3 id="傅里叶级数"><a href="#傅里叶级数" class="headerlink" title="傅里叶级数"></a>傅里叶级数</h3><p><strong>正交函数系：</strong></p>
+<p>三角函数列<br>$$<br>1,\cos x,\sin x,\cos 2x,\sin 2x,\cdots,\cos nx,\sin nx \tag{1}<br>$$<br>称为三角函数系，且具有共同的周期 $2\pi$。</p>
+<p>在三角函数系中，任何两个不相同的函数的乘积在 $[-\pi, \pi]$ 上的积分等于零，即<br>$$<br>\int_{-\pi}^{\pi} \cos nxdx &#x3D; \int_{-\pi}^{\pi} \sin nxdx &#x3D; 0<br>$$<br>$$<br>\int_{-\pi}^{\pi} \cos mx \cos nxdx&#x3D;0 ~~ (m\neq n)<br>$$<br>$$<br>\int_{-\pi}^{\pi} \sin mx \sin nxdx&#x3D;0 ~~ (m\neq n)<br>$$<br>$$<br>\int_{-\pi}^{\pi} \cos mx \sin nxdx&#x3D;0<br>$$</p>
+<p>而(1)中任何一个函数的平方在 $[-\pi, \pi]$ 上的积分都不等于零，即<br>$$<br>\int_{-\pi}^{\pi} \cos^ nx dx &#x3D; \int_{-\pi}^{\pi} \sin^ nx dx &#x3D; \pi<br>$$<br>若两个函数 $\phi$ 和 $\psi$ 在 $[a,b]$ 上可积，且<br>$$<br>\int_{a}^{b} \phi(x)\psi(x)dx &#x3D; 0<br>$$<br>则称 $\phi$ 和 $\psi$ 在 $[a,b]$ 上是正交的，或在 $[a,b]$ 上具有正交性。由此三角函数系(1)在 $[-\pi, \pi]$ 上具有正交性，或者说它们是正交函数系。</p>
+<p><strong>傅里叶级数</strong><br>函数 $x(t)$ 的傅里叶级数<br>$$<br>x(t) &#x3D; B_0+\sum_{n&#x3D;1}^{\infty}(B_k\cos (k\omega_0 t)+C_k\sin (k\omega_0 t))<br>$$<br>其中：<br>$$<br>B_0 &#x3D; \frac{1}{T_0} \int_{0}^{T_0}x(t)dt<br>$$<br>$$<br>B_k &#x3D; \frac{2}{T_0} \int_{0}^{T_0}x(t)\cos (k\omega_0 t)dt<br>$$<br>$$<br>C_k &#x3D; \frac{2}{T_0} \int_{0}^{T_0}x(t)\sin (k\omega_0 t)dt<br>$$<br>能表示成这样的形式前提是 $x$ 满足收敛性条件：</p>
+<ol>
+<li><p>一个周期绝对可积，即<br>$$<br>\int_{0}^{T_0} x(t)dt &lt; +\infty<br>$$</p>
+</li>
+<li><p>一个周期内 $x(t)$ 最值有限。</p>
+</li>
+<li><p>一个周期内连续点有限。</p>
+</li>
+</ol>
+<p><strong>傅里叶级数的复数表达形式</strong><br>$$<br>x(t) &#x3D; \sum_{k&#x3D;-\infty}^{+\infty} a_k e^{jk\omega_0 t}<br>$$<br>$$<br>a_k &#x3D; \frac{1}{T_0} \int_{T_0} x(t)e^{-jk\omega_0 t}dt<br>$$</p>
+<p>上述两种形式等价的，且可以相互转换。</p>
+<h3 id="傅里叶变换"><a href="#傅里叶变换" class="headerlink" title="傅里叶变换"></a>傅里叶变换</h3><p>将傅里叶级数推广到非周期函数。（上述傅里叶级数具有周期 $T_0$，且 $T_0 &#x3D; \frac{2\pi}{\omega_0}$）<br>非周期函数 $x(t)$ 的傅里叶变换：<br>$$<br>X(j\omega) &#x3D; \int_{-\infty}^{+\infty} x(t)e^{-j\omega t} dt<br>$$<br>$$<br>x(t) &#x3D; \frac{1}{2\pi}\int_{-\infty}^{+\infty} X(j\omega) e^{j\omega t} d\omega<br>$$</p>
+<h3 id="离散傅里叶变换"><a href="#离散傅里叶变换" class="headerlink" title="离散傅里叶变换"></a>离散傅里叶变换</h3><p>考虑长度为 $N$ 的时域复信号 $x[n]$，它通过 $N$ 点的 $DFT$ 就可以变成长度为 $N$ 的频域复信号 $X[k]$，反过来从频域变换到时域就是 $IDFT$<br>$$<br>X[k]&#x3D;\sum_{n&#x3D;0}^{N-1} x[n]e^{-j2\pi kn&#x2F;N}<br>$$<br>$$<br>x[n]&#x3D;\frac{1}{N}\sum_{n&#x3D;0}^{N-1} X[k]e^{j2\pi kn&#x2F;N}<br>$$</p>
+<p>$Matlab$ 中采用 $FFT$ 来实现 $DFT$，$FFT$ 是 $DFT$ 的快速算法，从数学本质上和 $DFT$ 是没有什么区别的。</p>
+<p>从时域转换到频域，$X[0]$ 代表直流分量，紧接着的 $\frac{N}{2}$ 个点代表的是正频率分量，接下来的 $\frac{N}{2}-1$ 个点代表的是负频率分量。</p>
+<p>如果输入的时域信号是一个非周期信号，那么 $FFT$ 的长度需要不小于时域信号的长度，但是如果时域信号是一个周期信号，那么 $FFT$ 的长度只需要比该周期信号的一个周期长即可。</p>
+<p>发现一个讲得很清楚明白的帖子：</p>
+<p><a href="https://www.guyuehome.com/35495">Matlab实现傅里叶变换</a></p>
+<p>实现从时域到频域的转换，最后得到频域的幅值谱和相位谱。</p>
+<p>不写了，花了两个半天，干饭去！</p>
+]]></content>
+      <categories>
+        <category>Courses</category>
+      </categories>
+      <tags>
+        <tag>Courses review and learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>白噪声</title>
+    <url>/2023/06/19/%E7%99%BD%E5%99%AA%E5%A3%B0/</url>
+    <content><![CDATA[<h2 id="白噪声"><a href="#白噪声" class="headerlink" title="白噪声"></a>白噪声</h2><p>白噪声源自white noise的翻译，其中的 “白” 应该是指其频谱特性是一条直线，并无其他有效信息。</p>
+<h3 id="用功率谱密度分析随机信号，为什么不用频谱分析："><a href="#用功率谱密度分析随机信号，为什么不用频谱分析：" class="headerlink" title="用功率谱密度分析随机信号，为什么不用频谱分析："></a>用功率谱密度分析随机信号，为什么不用频谱分析：</h3><p>频谱分析是针对确定信号的（因为要满足狄利克雷条件，随机信号无法满足），这样分析才有意义。随机信号有若干的样本函数，他们不仅是很难确定的，而且是随机的，所以即使你找到了一条样本函数，得到了频谱，它也是无意义的，因为它不能反映整个随机过程的情况。</p>
+<p>一个信号有三个组成部分:幅值、相位和频率成分。<br>对于随机信号而言,这三个组成部分都是随机的，它的幅值是围绕平均值在交变，包含所有的频率成分，相位完全杂乱无序。任一时刻与下一时刻之间没有任何关联，所以，不能用确定的数学函数来表征，只能从统计学角度来分析处理。</p>
+<p>那么为什么用功率谱可以呢？因为统计特性是不随时间的推移而变化的，所以随机过程的自相关函数能够在时域完整描述其统计特性，而自相关函数的FT变换，也就是功率谱密度是在频域对随机过程统计特性的完整描述。</p>
+<p>狄利克雷条件是一个信号存在傅里叶变换的充分不必要条件。</p>
+<p>狄利克雷条件括三方面：</p>
+<p>（1 ）在一周期内，连续或只有有限个第一类间断点；</p>
+<p>（2）在一周期内，极大值和极小值的数目应是有限个；</p>
+<p>（3）在一周期内，信号是绝对可积的。</p>
+<p>高斯白噪声是一个功率信号，其功率有限，能量无限。</p>
+]]></content>
+      <tags>
+        <tag>signal and system</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Linear System</title>
+    <url>/2023/08/23/%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F/</url>
+    <content><![CDATA[<h2 id="Chapter-1-Introduction"><a href="#Chapter-1-Introduction" class="headerlink" title="Chapter 1 Introduction"></a>Chapter 1 Introduction</h2><h3 id="Review-of-Classical-Control-Systems"><a href="#Review-of-Classical-Control-Systems" class="headerlink" title="Review of Classical Control Systems"></a>Review of Classical Control Systems</h3><h4 id="Laplace-Transformation"><a href="#Laplace-Transformation" class="headerlink" title="Laplace Transformation"></a>Laplace Transformation</h4><p>$$<br>F(s)&#x3D; \cal{L}[f(t)]&#x3D;\int_{0}^{\infty}f(t)e^{-st}dt<br>$$</p>
+<p>Properties of Laplace Transform:</p>
+<ol>
+<li>$\cal{L}[Af(t)]&#x3D;A\cal{L} [f(t)]$ where $A$ is a constant.</li>
+<li>$\cal{L} [A_1 f_1(t)+A_2 f_2(t)]&#x3D;A_1 \cal{L} [f_1(t)]+A_2\cal{L} [f_2(t)]$</li>
+</ol>
+<h4 id="Transfer-Function"><a href="#Transfer-Function" class="headerlink" title="Transfer Function"></a>Transfer Function</h4><p>The transfer function of a linear, time-invariant, differential equation (线性时不变差分方程) is defined as<br>$$<br>G(s)&#x3D;\frac{b_0 s^m+b_1 s^{m-1}+\cdots b_{m-1}s+b_m}{a_0s^n+a_1s^{n-1}+\cdots a_n}<br>$$</p>
+<p>计算传递函数时，认为初始状态为0.</p>
+<h4 id="Other-Definitions"><a href="#Other-Definitions" class="headerlink" title="Other Definitions"></a>Other Definitions</h4><ol>
+<li>Proper Transfer Function: $n&#x2F;geq m$，即传递函数分子的阶数不大于分母的阶数。</li>
+<li>Strictly proper transfer function: $n&gt;m$，即传递函数分子阶数小于分母阶数。</li>
+<li>Order of a system: The highest power of s in the <strong>denominator</strong> of G(s).</li>
+<li>Poles of G(s): The roots of the denominator polynomial of G(s).</li>
+<li>Zeros of G(s): The roots of the numerator polynomial of G(s).</li>
+</ol>
+<h3 id="Mathematical-Description-of-Systems"><a href="#Mathematical-Description-of-Systems" class="headerlink" title="Mathematical Description of Systems"></a>Mathematical Description of Systems</h3><h4 id="Causality-因果性"><a href="#Causality-因果性" class="headerlink" title="Causality 因果性"></a>Causality 因果性</h4><p>memoryless system:  输出仅取决于当前时刻输入，而不取决于之前的输入和之后的输入。<br>casual system, non-anticipatory system:  系统输出仅取决于之前和当前的输入。</p>
+<h4 id="Linear-system"><a href="#Linear-system" class="headerlink" title="Linear system"></a>Linear system</h4><p>通过叠加法则，可将系统响应分解为零状态响应和零输入响应之和，即</p>
+<p>零输入响应表示为：<br>$$<br>{x(t_0),0,y_{zi}(t)<del>for</del> t\geq t_0 }<br>$$<br>零状态响应表示为：<br>$$<br>{0,u(t),<del>for</del>t\geq t_0, y_{zs}(t)<del>for</del> t\geq t_0 }<br>$$<br>故<br>$$<br>y(t)&#x3D;y_{zi}(t)+y_{zs}(t)<br>$$</p>
+<h3 id="Input-Output-Description"><a href="#Input-Output-Description" class="headerlink" title="Input-Output Description"></a>Input-Output Description</h3><p>$$<br>y(t)&#x3D;\int_{t_0}^{t} g(t-\tau)u(\tau)d\tau &#x3D; u(t)\ast g(t)  \tag{1}<br>$$<br>卷积的连续表达形式。其中 $g(t)$ 是系统对于冲激函数 $\delta(t)$ 的冲激响应 (Impulse Response).</p>
+<h3 id="State-Space-Representation"><a href="#State-Space-Representation" class="headerlink" title="State Space Representation"></a>State Space Representation</h3><p>状态空间方程的一般形式<br>$$<br>\dot{x}(t)&#x3D;A(t)x(t)+B(t)u(t) \tag{2} \<br>y(t)&#x3D;C(t)x(t)+D(t)u(t)<br>$$<br>其中，$x$ 是 $n$ 维状态矢量； $u$ 是 $p$ 维输入(或控制)矢量； $y$ 是 $q$ 维输出矢量；$A(t)$ 是 $n\times n$ 方阵，为系统内部状态的联系，称为状态矩阵或者系统矩阵；$B(t)$ 是 $n\times p $ 矩阵， 为输入对状态的作用，称为输入矩阵或控制矩阵；$C(t)$ 是 $q\times n$ 矩阵，为输出与状态之间的关系，称为输出矩阵； $D(t)$ 是 $q\times p$ 矩阵，表示系统的输入直接作用在输出的部分，称为直接传递矩阵。</p>
+<p>当 $A(t), B(t), C(t), D(t)$ 均为常数时，上述状态空间方程退化为线性时不变方程<br>$$<br>\dot{x}(t)&#x3D;Ax(t)+Bu(t) \<br>y(t)&#x3D;Cx(t)+Du(t)  \tag{3}<br>$$</p>
+<h3 id="Linearization"><a href="#Linearization" class="headerlink" title="Linearization"></a>Linearization</h3><p>暂时还没看懂哈</p>
+<h2 id="Chapter-3-State-Space-Solutions-and-Properties"><a href="#Chapter-3-State-Space-Solutions-and-Properties" class="headerlink" title="Chapter 3 State-Space Solutions and Properties"></a>Chapter 3 State-Space Solutions and Properties</h2><p>问题描述：对于(3)中的线性时不变系统，目的是 obtain responses $x(t), y(t)$ for $t\geq t_0$ to initial state $x(t_0)$ and $u(t), t\geq t_0$</p>
+<h3 id="Homogeneous-Solution"><a href="#Homogeneous-Solution" class="headerlink" title="Homogeneous Solution"></a>Homogeneous Solution</h3><p>To be continued…</p>
+]]></content>
+      <tags>
+        <tag>signal and system</tag>
+      </tags>
   </entry>
 </search>
