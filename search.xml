@@ -12,19 +12,6 @@
       </tags>
   </entry>
   <entry>
-    <title>20231006</title>
-    <url>/2023/10/06/20231006/</url>
-    <content><![CDATA[<h3 id="20231006-星期五"><a href="#20231006-星期五" class="headerlink" title="20231006 星期五"></a>20231006 星期五</h3><p>备忘录：<br>matlab 读入 txt 文件：<code>dlmread(&#39;.txt&#39;)</code></p>
-<p>fft.fftfreq(N,dt):</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">f = [0, 1, ...,   n/2-1,     -n/2, ..., -1] / (d*n)   if n is even</span><br><span class="line">f = [0, 1, ..., (n-1)/2, -(n-1)/2, ..., -1] / (d*n)   if n is odd</span><br></pre></td></tr></table></figure>
-
-<p>傅里叶变换后若幅值相同但相位不同首先考虑有没有加入时移，一般就是时间信号经过了移位。</p>
-]]></content>
-      <tags>
-        <tag>Live once</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>20230928</title>
     <url>/2023/09/28/20230928/</url>
     <content><![CDATA[<h3 id="20230928-星期四"><a href="#20230928-星期四" class="headerlink" title="20230928 星期四"></a>20230928 星期四</h3><p>突然就多了一揽子的事情，今天论文终于被接收了，开心！能在 Google scholar 上留个名吗hh(bushi  十一月能有机会回国了还是蛮好的<br>6004 的作业也发布了，本来以为只有一个题，结果有八个题….<br>混乱的十月和十一月…. 跟上学期想象中的美好生活一点都不沾边….<br>先把答辩过了，然后写作业和会议准备同步进行，最后再考虑另外一门课的复习，OK！前进前进前进进！</p>
@@ -56,15 +43,16 @@
       </tags>
   </entry>
   <entry>
-    <title>Kirchhoff migration</title>
-    <url>/2023/08/12/Kirchhoff%20migration/</url>
-    <content><![CDATA[<h1 id="有关逆时偏移成像方法"><a href="#有关逆时偏移成像方法" class="headerlink" title="有关逆时偏移成像方法"></a>有关逆时偏移成像方法</h1><h2 id="基尔霍夫-Kirchhoff-积分偏移成像方法"><a href="#基尔霍夫-Kirchhoff-积分偏移成像方法" class="headerlink" title="基尔霍夫(Kirchhoff)积分偏移成像方法"></a>基尔霍夫(Kirchhoff)积分偏移成像方法</h2><p>利用优化算法，将瞬变电磁场进行波场变换，得到“波场”，将波场分析的原理即地震波场从地面向地下反向外推进行偏移成像的方法用于对瞬变电磁场的解释，形成瞬变电磁场的偏移方法。即对观测电磁数据向下延拓，构建产生响应的地下电阻率图像。</p>
+    <title>20231006</title>
+    <url>/2023/10/06/20231006/</url>
+    <content><![CDATA[<h3 id="20231006-星期五"><a href="#20231006-星期五" class="headerlink" title="20231006 星期五"></a>20231006 星期五</h3><p>备忘录：<br>matlab 读入 txt 文件：<code>dlmread(&#39;.txt&#39;)</code></p>
+<p>fft.fftfreq(N,dt):</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">f = [0, 1, ...,   n/2-1,     -n/2, ..., -1] / (d*n)   if n is even</span><br><span class="line">f = [0, 1, ..., (n-1)/2, -(n-1)/2, ..., -1] / (d*n)   if n is odd</span><br></pre></td></tr></table></figure>
+
+<p>傅里叶变换后若幅值相同但相位不同首先考虑有没有加入时移，一般就是时间信号经过了移位。</p>
 ]]></content>
-      <categories>
-        <category>inverse problem</category>
-      </categories>
       <tags>
-        <tag>EM learning</tag>
+        <tag>Live once</tag>
       </tags>
   </entry>
   <entry>
@@ -142,6 +130,18 @@
 ]]></content>
       <categories>
         <category>Antenna</category>
+      </categories>
+      <tags>
+        <tag>EM learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Kirchhoff migration</title>
+    <url>/2023/08/12/Kirchhoff%20migration/</url>
+    <content><![CDATA[<h1 id="有关逆时偏移成像方法"><a href="#有关逆时偏移成像方法" class="headerlink" title="有关逆时偏移成像方法"></a>有关逆时偏移成像方法</h1><h2 id="基尔霍夫-Kirchhoff-积分偏移成像方法"><a href="#基尔霍夫-Kirchhoff-积分偏移成像方法" class="headerlink" title="基尔霍夫(Kirchhoff)积分偏移成像方法"></a>基尔霍夫(Kirchhoff)积分偏移成像方法</h2><p>利用优化算法，将瞬变电磁场进行波场变换，得到“波场”，将波场分析的原理即地震波场从地面向地下反向外推进行偏移成像的方法用于对瞬变电磁场的解释，形成瞬变电磁场的偏移方法。即对观测电磁数据向下延拓，构建产生响应的地下电阻率图像。</p>
+]]></content>
+      <categories>
+        <category>inverse problem</category>
       </categories>
       <tags>
         <tag>EM learning</tag>
