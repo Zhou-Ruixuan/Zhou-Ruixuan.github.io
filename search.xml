@@ -12,6 +12,15 @@
       </tags>
   </entry>
   <entry>
+    <title>20230928</title>
+    <url>/2023/09/28/20230928/</url>
+    <content><![CDATA[<h3 id="20230928-星期四"><a href="#20230928-星期四" class="headerlink" title="20230928 星期四"></a>20230928 星期四</h3><p>突然就多了一揽子的事情，今天论文终于被接收了，开心！能在 Google scholar 上留个名吗hh(bushi  十一月能有机会回国了还是蛮好的<br>6004 的作业也发布了，本来以为只有一个题，结果有八个题….<br>混乱的十月和十一月…. 跟上学期想象中的美好生活一点都不沾边….<br>先把答辩过了，然后写作业和会议准备同步进行，最后再考虑另外一门课的复习，OK！前进前进前进进！</p>
+]]></content>
+      <tags>
+        <tag>Live once</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>20230916</title>
     <url>/2023/09/16/20230916/</url>
     <content><![CDATA[<h3 id="20230916-星期六"><a href="#20230916-星期六" class="headerlink" title="20230916 星期六"></a>20230916 星期六</h3><p><strong>2023.09.22更新：</strong><br>得到答案了，对于gaussiandotdot，相位出现不同的点都在 3.14 和 -3.14，即 $\pi$ 和 $-\pi$，其对应的相位是一样的<br>$$<br>e^{j\pi} &#x3D; e^{j(-\pi)} &#x3D; 1<br>$$</p>
@@ -28,15 +37,6 @@
 <ol start="3">
 <li>高斯二阶导信号 gaussiandotdot：<br>$$<br>W(t)&#x3D; 2\zeta(2\zeta(t-\chi)^2-1)e^{-\zeta (t-\chi)^2}<br>$$<br>其对应的频域信号应该为：<br>$$<br>Y(f) &#x3D; (-i2\pi f)^2\sqrt{\frac{\pi}{\zeta}}e^{-\frac{\pi^2f^2}{\zeta}}e^{-j2\pi f\chi};<br>$$<br>但是在 $Matlab$ 中，高斯信号和高斯一阶信号的 $FFT$ 和上述解析解的幅值和相位都能对上，只有高斯二阶导的相位对不上，真奇怪。有待解决。</li>
 </ol>
-]]></content>
-      <tags>
-        <tag>Live once</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20230928</title>
-    <url>/2023/09/28/20230928/</url>
-    <content><![CDATA[<h3 id="20230928-星期四"><a href="#20230928-星期四" class="headerlink" title="20230928 星期四"></a>20230928 星期四</h3><p>突然就多了一揽子的事情，今天论文终于被接收了，开心！能在 Google scholar 上留个名吗hh(bushi  十一月能有机会回国了还是蛮好的<br>6004 的作业也发布了，本来以为只有一个题，结果有八个题….<br>混乱的十月和十一月…. 跟上学期想象中的美好生活一点都不沾边….<br>先把答辩过了，然后写作业和会议准备同步进行，最后再考虑另外一门课的复习，OK！前进前进前进进！</p>
 ]]></content>
       <tags>
         <tag>Live once</tag>
@@ -64,7 +64,7 @@
 <ol>
 <li>肩前束和中束肌肉明显增加，运动时能明显找到发力感了，减少了斜方肌代偿。</li>
 <li>肱二头肌肌肉明显增加，二头与肩出现较为明显的分界线了。</li>
-<li>通过臀腿的锻炼及拉伸(主要是泡沫轴)，改善了体态的问题(骨盆前倾和大腿前侧凸出)，腿变直了很多。同时臀部肌肉力量也有所加强。</li>
+<li>通过臀腿的锻炼及拉伸(主要是泡沫轴)，改善了体态的问题(骨盆前倾和大腿前侧凸出)，腿变直很多。同时臀部肌肉力量也有所加强。</li>
 </ol>
 <p>在此记录截止目前的训练计划模版：</p>
 <h4 id="1-肩臂训练"><a href="#1-肩臂训练" class="headerlink" title="1. 肩臂训练"></a>1. 肩臂训练</h4><p><strong>哑铃推肩：</strong>前束与中束，三角肌的复合动作，一般作为训练的第一个动作。目前常用6Kg(双侧，下面在没有备注的情况下都指双侧)进行，7Kg能做组，尝试过8Kg(能持续推5个左右)。肌肉发力感较为明显。刚开始时力量不足动作易变形导致斜方肌代偿，目前没有出现过这个问题了。</p>
@@ -80,12 +80,57 @@
 <p><strong>坐姿髋内收：</strong>大腿内侧。目前常用30Kg进行。</p>
 <p><strong>山羊挺身：</strong>下臀下背与腘绳肌。作为结束动作，做到没力为止。</p>
 <p>很明显，发力感和效率的问题，很多动作光做了并没有刺激到对应的肌肉群。</p>
-<h2 id="第二阶段计划-8月-12月"><a href="#第二阶段计划-8月-12月" class="headerlink" title="第二阶段计划(8月-12月)"></a>第二阶段计划(8月-12月)</h2><p>​		在以健康的身体的前提下(主要是姨妈不出走)，第二阶段会根据第一阶段的身体的反馈对计划进行调整。首要目标是刷脂，会加大有氧训练强度和次数，以及加入背部、胸部的训练，最重要的是配合饮食上的调整。保持一周5练的频率。</p>
+<h2 id="第二阶段计划-8月-12月"><a href="#第二阶段计划-8月-12月" class="headerlink" title="第二阶段计划(8月-12月)"></a>第二阶段计划(8月-12月)</h2><p>​		在以健康的身体的前提下(主要是姨妈不出走)，第二阶段会根据第一阶段的身体的反馈对计划进行调整。首要目标是刷脂，会加大有氧训练强度和次数，以及加入背部、胸部和腰腹的训练，最重要的是配合饮食上的调整。保持一周5练的频率。少吃！少吃！少吃！控制住那该死的食欲。</p>
 <p>在此列出一周训练计划，后续根据实际情况进行调整和改进：</p>
-<h4 id="周一"><a href="#周一" class="headerlink" title="周一"></a>周一</h4><p>在我看来，只要是能通过学习和重复的事情，都不难。</p>
+<h4 id="周一-肩臂训练-腰腹训练-瘦腿训练-有氧"><a href="#周一-肩臂训练-腰腹训练-瘦腿训练-有氧" class="headerlink" title="周一 肩臂训练+腰腹训练+瘦腿训练+有氧"></a>周一 肩臂训练+腰腹训练+瘦腿训练+有氧</h4><p>早训练：肩臂训练(肩[前束+中束+后束]+臂[肱二头肌+肱三头肌])</p>
+<p><strong>哑铃推肩：</strong>前束与中束。递减组(7Kg-6Kg-4Kg)×4组，已经是很熟练的动作了。</p>
+<p><strong>哑铃侧平举：</strong>前束与中束。递减组(4Kg-3Kg)×4组。双脚距离与髋同宽，双腿保持微屈，膝盖锁死。上半身微前屈让肩膀在一个放松的状态下，大臂往内收30度左右，这时手是在裤口袋的位置。手臂微屈，抬起时肘关节略低于肩关节，小臂略低于大臂，这样能避免斜方肌代偿。</p>
+<p>变式：手臂外旋，掌心朝外，哑铃往斜后方举，可以避免肩峰撞击。</p>
+<p>总结要点：沉肩，手臂微屈，膝盖锁死，上半身微微前倾，大臂内收30度，顶端停住2秒，控制下放。</p>
+<p><strong>哑铃提拉：</strong>中束。上半身前倾，一定要沉肩，宽距，拉到大臂快要平行地面就行(与身体夹角30度)。想象往两边打开，而不是用斜方肌的力量向上提。目前6Kg×4组。这个动作中束发力感极强。</p>
+<p><strong>哑铃前平举：</strong>前束与中束。4Kg×2组，这个动作较为简单。</p>
+<p><strong>俯身飞鸟：</strong>后束。不适合大重量。3Kg×4组。</p>
+<p><strong>杠铃俯身提拉：</strong>后束。因为三角肌后束肌肉小，只适合小重量的多次训练。</p>
+<p><strong>哑铃弯举：</strong>肱二头肌。前臂和腕朝前是为了充分收缩肱二头肌和锻炼肱二头肌内侧，更好地分离肱二头肌。二头练这一个动作就够了，目前来看极其有效。5Kg×4组。</p>
+<p><strong>哑铃臂屈伸：</strong>肱三头肌。保持上臂固定，使用肱三头肌将哑铃向后举起，直至前臂与地面平行。</p>
+<p><strong>哑铃坐姿推举：</strong>收尾动作，做到力竭即可。</p>
+<p>晚间训练：腰腹训练+有氧</p>
+<p><strong>腰腹训练：</strong>帕梅拉10分钟腹部训练</p>
+<p><strong>瘦腿训练：</strong>普拉提内外100</p>
+<p><strong>有氧：</strong>帕梅拉内啡肽三部曲</p>
+<p>最后注意用泡沫轴拉伸。</p>
+<h4 id="周二-胸背训练-有氧"><a href="#周二-胸背训练-有氧" class="headerlink" title="周二 胸背训练 + 有氧"></a>周二 胸背训练 + 有氧</h4><p>早训练：胸背训练</p>
+<p><strong>上斜哑铃卧推：</strong></p>
+<p><strong>哑铃划船：</strong></p>
+<p><strong>器械飞鸟：</strong></p>
+<p><strong>宽距下拉：</strong></p>
+<p><strong>器械划船：</strong></p>
+<h4 id="周三-臀腿训练-腰腹训练-帕梅拉8min瘦腿"><a href="#周三-臀腿训练-腰腹训练-帕梅拉8min瘦腿" class="headerlink" title="周三 臀腿训练 + 腰腹训练 + 帕梅拉8min瘦腿"></a>周三 臀腿训练 + 腰腹训练 + 帕梅拉8min瘦腿</h4><h4 id="周四-肩臂训练-有氧"><a href="#周四-肩臂训练-有氧" class="headerlink" title="周四 肩臂训练 + 有氧"></a>周四 肩臂训练 + 有氧</h4><h4 id="周六-臀腿训练-腰腹训练"><a href="#周六-臀腿训练-腰腹训练" class="headerlink" title="周六 臀腿训练 + 腰腹训练"></a>周六 臀腿训练 + 腰腹训练</h4><p>饮食</p>
+<p>蛋白质：1.6*55 &#x3D; 90g</p>
+<p>脂肪：55g</p>
+<p>碳水：2.5*55 &#x3D; 130g</p>
+<p>在我看来，只要是能通过学习和重复的事情，都不难。</p>
 ]]></content>
       <tags>
         <tag>运动记录</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>二端口网络互阻抗证明</title>
+    <url>/2024/07/20/%E4%BA%8C%E7%AB%AF%E5%8F%A3%E7%BD%91%E7%BB%9C%E4%BA%92%E9%98%BB%E6%8A%97%E8%AF%81%E6%98%8E/</url>
+    <content><![CDATA[<h2 id="二端口网络互阻抗证明"><a href="#二端口网络互阻抗证明" class="headerlink" title="二端口网络互阻抗证明"></a>二端口网络互阻抗证明</h2><p>白噪声源自white noise的翻译，其中的 “白” 应该是指其频谱特性是一条直线，并无其他有效信息。</p>
+<h3 id="用功率谱密度分析随机信号，为什么不用频谱分析："><a href="#用功率谱密度分析随机信号，为什么不用频谱分析：" class="headerlink" title="用功率谱密度分析随机信号，为什么不用频谱分析："></a>用功率谱密度分析随机信号，为什么不用频谱分析：</h3><p>频谱分析是针对确定信号的（因为要满足狄利克雷条件，随机信号无法满足），这样分析才有意义。随机信号有若干的样本函数，他们不仅是很难确定的，而且是随机的，所以即使你找到了一条样本函数，得到了频谱，它也是无意义的，因为它不能反映整个随机过程的情况。</p>
+<p>一个信号有三个组成部分:幅值、相位和频率成分。<br>对于随机信号而言,这三个组成部分都是随机的，它的幅值是围绕平均值在交变，包含所有的频率成分，相位完全杂乱无序。任一时刻与下一时刻之间没有任何关联，所以，不能用确定的数学函数来表征，只能从统计学角度来分析处理。</p>
+<p>那么为什么用功率谱可以呢？因为统计特性是不随时间的推移而变化的，所以随机过程的自相关函数能够在时域完整描述其统计特性，而自相关函数的FT变换，也就是功率谱密度是在频域对随机过程统计特性的完整描述。</p>
+<p>狄利克雷条件是一个信号存在傅里叶变换的充分不必要条件。</p>
+<p>狄利克雷条件括三方面：</p>
+<p>（1 ）在一周期内，连续或只有有限个第一类间断点；</p>
+<p>（2）在一周期内，极大值和极小值的数目应是有限个；</p>
+<p>（3）在一周期内，信号是绝对可积的。</p>
+<p>高斯白噪声是一个功率信号，其功率有限，能量无限。</p>
+]]></content>
+      <tags>
+        <tag>RF</tag>
       </tags>
   </entry>
   <entry>
@@ -143,21 +188,34 @@
       </tags>
   </entry>
   <entry>
-    <title>二端口网络互阻抗证明</title>
-    <url>/2024/07/20/%E4%BA%8C%E7%AB%AF%E5%8F%A3%E7%BD%91%E7%BB%9C%E4%BA%92%E9%98%BB%E6%8A%97%E8%AF%81%E6%98%8E/</url>
-    <content><![CDATA[<h2 id="二端口网络互阻抗证明"><a href="#二端口网络互阻抗证明" class="headerlink" title="二端口网络互阻抗证明"></a>二端口网络互阻抗证明</h2><p>白噪声源自white noise的翻译，其中的 “白” 应该是指其频谱特性是一条直线，并无其他有效信息。</p>
-<h3 id="用功率谱密度分析随机信号，为什么不用频谱分析："><a href="#用功率谱密度分析随机信号，为什么不用频谱分析：" class="headerlink" title="用功率谱密度分析随机信号，为什么不用频谱分析："></a>用功率谱密度分析随机信号，为什么不用频谱分析：</h3><p>频谱分析是针对确定信号的（因为要满足狄利克雷条件，随机信号无法满足），这样分析才有意义。随机信号有若干的样本函数，他们不仅是很难确定的，而且是随机的，所以即使你找到了一条样本函数，得到了频谱，它也是无意义的，因为它不能反映整个随机过程的情况。</p>
-<p>一个信号有三个组成部分:幅值、相位和频率成分。<br>对于随机信号而言,这三个组成部分都是随机的，它的幅值是围绕平均值在交变，包含所有的频率成分，相位完全杂乱无序。任一时刻与下一时刻之间没有任何关联，所以，不能用确定的数学函数来表征，只能从统计学角度来分析处理。</p>
-<p>那么为什么用功率谱可以呢？因为统计特性是不随时间的推移而变化的，所以随机过程的自相关函数能够在时域完整描述其统计特性，而自相关函数的FT变换，也就是功率谱密度是在频域对随机过程统计特性的完整描述。</p>
-<p>狄利克雷条件是一个信号存在傅里叶变换的充分不必要条件。</p>
-<p>狄利克雷条件括三方面：</p>
-<p>（1 ）在一周期内，连续或只有有限个第一类间断点；</p>
-<p>（2）在一周期内，极大值和极小值的数目应是有限个；</p>
-<p>（3）在一周期内，信号是绝对可积的。</p>
-<p>高斯白噪声是一个功率信号，其功率有限，能量无限。</p>
+    <title>20240814 Huygens Source</title>
+    <url>/2024/08/14/20240814/</url>
+    <content><![CDATA[<h3 id="202400814-星期三-Huygens-Source"><a href="#202400814-星期三-Huygens-Source" class="headerlink" title="202400814 星期三 Huygens Source"></a>202400814 星期三 Huygens Source</h3><p>由于CST里没有built-in的理想偶极子天线，故利用Huygens source生成。</p>
+<p>（1）首先根据Balanis的电场磁场公式，给出理想电偶极子的解析解。<br>（2）生成CST所需要的.nfd文件。<br>（3）将.nfd文件导入CST作为field source。<br>（4）观测Huygens box内的电场磁场，与解析解作对比。</p>
+<p>目前做的是原理性验证，估故只考虑Radiation的问题，后续会加入Scattering。</p>
+<h3 id="理想电偶极子的解析解"><a href="#理想电偶极子的解析解" class="headerlink" title="理想电偶极子的解析解"></a>理想电偶极子的解析解</h3><p>​    在 Short Electric Dipole 一文中已经给出了电场和磁场的解析解公式，在此给出实现的代码。</p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="params">[E,H]</span> = <span class="title">Green_E_dipole</span><span class="params">(source_orientation, field_orientation,field_position,freq,epsr,sigma,mur)</span></span></span><br><span class="line"></span><br><span class="line"><span class="comment">% Input variables:</span></span><br><span class="line"></span><br><span class="line"><span class="comment">% source_orientation: source orientation [ux,uy,uz]</span></span><br><span class="line"><span class="comment">% field_orientation: field orientation [ux,uy,uz]</span></span><br><span class="line"><span class="comment">% field_position: field position [x,y,z], unit is meter</span></span><br><span class="line"><span class="comment">% freq: frequency [Hz]</span></span><br><span class="line"><span class="comment">% epsr: relative permittivity of media</span></span><br><span class="line"><span class="comment">% sigma: conductivity of media [S/m]</span></span><br><span class="line"><span class="comment">% mur: relative permeability of media</span></span><br><span class="line"><span class="comment">% ----------------------------------------------------------------------------</span></span><br><span class="line"></span><br><span class="line"><span class="comment">% Eg: [E,H] = Green_E_dipole([1,0,0],[0,1,0],[10,10,10],5e9,1,0.001,1)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">% ----------------------------------------------------------------------------</span></span><br><span class="line"></span><br><span class="line"><span class="comment">% Constants</span></span><br><span class="line">eps0 = <span class="number">8.85418781762039e-12</span>;</span><br><span class="line">mu0 = <span class="number">4</span>*<span class="built_in">pi</span>*<span class="number">1e-7</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">% auxiliary parameters</span></span><br><span class="line">w = <span class="number">2</span>*<span class="built_in">pi</span>*freq;</span><br><span class="line"><span class="built_in">eps</span> = epsr*eps0 + sigma./<span class="number">1</span><span class="built_in">i</span>/w;</span><br><span class="line">mu = mur*mu0;</span><br><span class="line">k = w*<span class="built_in">sqrt</span>(<span class="built_in">eps</span>*mu);</span><br><span class="line">eta = <span class="built_in">sqrt</span>(mu/<span class="built_in">eps</span>);</span><br><span class="line"></span><br><span class="line"><span class="comment">% E dipole moment</span></span><br><span class="line">I0l = <span class="number">1</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">% TX information</span></span><br><span class="line">TX_dir = source_orientation(:);</span><br><span class="line">TX_r = norm(TX_dir);</span><br><span class="line">TX_theta = <span class="built_in">acos</span>(TX_dir(<span class="number">3</span>)./TX_r);</span><br><span class="line">TX_phi = <span class="built_in">atan2</span>(TX_dir(<span class="number">2</span>),TX_dir(<span class="number">1</span>));</span><br><span class="line"></span><br><span class="line">T = [<span class="built_in">cos</span>(TX_theta)*<span class="built_in">cos</span>(TX_phi) <span class="built_in">cos</span>(TX_theta)*<span class="built_in">sin</span>(TX_phi) -<span class="built_in">sin</span>(TX_theta);</span><br><span class="line">     -<span class="built_in">sin</span>(TX_phi)              <span class="built_in">cos</span>(TX_phi)                           <span class="number">0</span>;</span><br><span class="line">     <span class="built_in">sin</span>(TX_theta)*<span class="built_in">cos</span>(TX_phi) <span class="built_in">sin</span>(TX_theta)*<span class="built_in">sin</span>(TX_phi) <span class="built_in">cos</span>(TX_theta)];<span class="number">0</span></span><br><span class="line">     </span><br><span class="line"><span class="comment">% RX information</span></span><br><span class="line">RX_pos_basic_CS = field_position(:)</span><br><span class="line">RX_pos_TX_CS = T * RX_pos_basic_CS;</span><br><span class="line">RX_dir = field_orientation(:);</span><br><span class="line"></span><br><span class="line">r = norm(RX_pos_TX_CS);</span><br><span class="line">theta = <span class="built_in">acos</span>(RX_pos_TX_CS(<span class="number">3</span>)./r);</span><br><span class="line">phi = <span class="built_in">acos</span>(RX_pos_TX_CS(<span class="number">3</span>)./r);</span><br><span class="line"></span><br><span class="line"><span class="comment">% calculate E and H field</span></span><br><span class="line">Hr = <span class="number">0</span>;</span><br><span class="line">Htheta = <span class="number">0</span>;</span><br><span class="line">Hphi = <span class="number">1</span><span class="built_in">i</span> .* k .* I0l .* <span class="built_in">sin</span>(theta) ./ (<span class="number">4</span>*<span class="built_in">pi</span>*r) .* (<span class="number">1</span> + <span class="number">1</span>/(<span class="number">1</span><span class="built_in">i</span>*k*r)) .* <span class="built_in">exp</span>(<span class="number">-1</span><span class="built_in">i</span>.*k.*r);</span><br><span class="line">Hx_TX_coor = Hr.*<span class="built_in">sin</span>(theta).*<span class="built_in">cos</span>(phi) + Htheta.*<span class="built_in">cos</span>(theta).*<span class="built_in">cos</span>(phi) - Hphi.*<span class="built_in">sin</span>(phi);</span><br><span class="line">Hy_TX_coor = Hr.*<span class="built_in">sin</span>(theta).*<span class="built_in">sin</span>(phi) + Htheta.*<span class="built_in">cos</span>(theta).*<span class="built_in">sin</span>(phi) + Hphi.*<span class="built_in">cos</span>(phi);</span><br><span class="line">Hz_TX_coor = Hr.*<span class="built_in">cos</span>(theta) - Htheta.*<span class="built_in">sin</span>(theta);</span><br><span class="line">H_basic_coor = T.&#x27;*[Hx_TX_coor; Hy_TX_coor; Hz_TX_coor];</span><br><span class="line">H_RX = sum(H_basic_coor.*RX_dir);</span><br><span class="line">H = H_RX;</span><br><span class="line"></span><br><span class="line">Er = eta * I0l * <span class="built_in">cos</span>(theta) ./ (<span class="number">2</span>*<span class="built_in">pi</span>*r^<span class="number">2</span>) .* (<span class="number">1</span> + <span class="number">1</span>/(<span class="number">1</span><span class="built_in">i</span>*k*r)) .* <span class="built_in">exp</span>(<span class="number">-1</span><span class="built_in">i</span>.*k.*r);</span><br><span class="line">Etheta = <span class="number">1</span><span class="built_in">i</span> * eta * k * I0l * <span class="built_in">sin</span>(theta) / (<span class="number">4</span>*<span class="built_in">pi</span>*r) * (<span class="number">1</span> + <span class="number">1</span>/(<span class="number">1</span><span class="built_in">i</span>*k*r) - <span class="number">1</span>/(k*r)^<span class="number">2</span>) .* <span class="built_in">exp</span>(<span class="number">-1</span><span class="built_in">i</span>.*k.*r);</span><br><span class="line">Ephi = <span class="number">0</span>;</span><br><span class="line">Ex_TX_coor = Er.*<span class="built_in">sin</span>(theta).*<span class="built_in">cos</span>(phi) + Etheta.*<span class="built_in">cos</span>(theta).*<span class="built_in">cos</span>(phi) - Ephi.*<span class="built_in">sin</span>(phi);</span><br><span class="line">Ey_TX_coor = Er.*<span class="built_in">sin</span>(theta).*<span class="built_in">sin</span>(phi) + Etheta.*<span class="built_in">cos</span>(theta).*<span class="built_in">sin</span>(phi) + Ephi.*<span class="built_in">cos</span>(phi);</span><br><span class="line">Ez_TX_coor = Er.*<span class="built_in">cos</span>(theta) - Etheta.*<span class="built_in">sin</span>(theta);</span><br><span class="line">E_basic_coor = T.&#x27;*[Ex_TX_coor; Ey_TX_coor; Ez_TX_coor];</span><br><span class="line">E_RX = sum(E_basic_coor.*RX_dir);</span><br><span class="line">E = E_RX;</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="生成-nfd文件"><a href="#生成-nfd文件" class="headerlink" title="生成.nfd文件"></a>生成.nfd文件</h3><p>​    在 CST 的 field source 中，可导入的文件类型有 .nfs，.ffs 等，在此我们选择导入.nfd 类型文件。以下代码用于生成 .nfd 格式文件。</p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">clear all; clc</span><br><span class="line">nf = <span class="number">2</span>;</span><br><span class="line">freq_all = [<span class="number">2.4e9</span>,<span class="number">2.5e9</span>];</span><br><span class="line">xd = [<span class="number">1</span>,<span class="number">0</span>,<span class="number">0</span>]; yd = [<span class="number">0</span>,<span class="number">1</span>,<span class="number">0</span>]; zd = [<span class="number">0</span>,<span class="number">0</span>,<span class="number">1</span>];</span><br><span class="line">source_orientation = zd;</span><br><span class="line">epsr = <span class="number">1</span>;</span><br><span class="line">sigma = <span class="number">0</span>;</span><br><span class="line">mur = <span class="number">1</span>;</span><br><span class="line"></span><br><span class="line">filename = <span class="string">&quot;xxx.nfd&quot;</span>;</span><br><span class="line">print_foreword(filename);</span><br><span class="line">fid = fopen(filename,<span class="string">&quot;a&quot;</span>); <span class="comment">% a: Open or create new file for writing. Append data to the end of the file.</span></span><br><span class="line"></span><br><span class="line">lambda = <span class="number">120e-3</span>;</span><br><span class="line">Box_length = lambda/<span class="number">2</span>; <span class="comment">% Decide length of huygens box</span></span><br><span class="line"></span><br><span class="line"><span class="comment">% !Number of cells (Nx,Ny,Nz) along x-,y-,z-directions.</span></span><br><span class="line">Nx = <span class="number">20</span>;</span><br><span class="line">Ny = <span class="number">20</span>;</span><br><span class="line">Nz = <span class="number">20</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">% !Size of each cell (dx,dy,dz) along x-,y-,z-directions.</span></span><br><span class="line">dx = Box_length/Nx;</span><br><span class="line">dy = Box_length/Ny;</span><br><span class="line">dz = Box_length/Nz;</span><br><span class="line"></span><br><span class="line"><span class="comment">% !Absolute location of box (Xmin,Ymin,Zmin).</span></span><br><span class="line">Xmin = <span class="number">12</span>;</span><br><span class="line">Ymin = <span class="number">0</span>;</span><br><span class="line">Zmin = <span class="number">0</span>;</span><br><span class="line"></span><br><span class="line">xp = Xmin - dx/<span class="number">2</span> + (<span class="number">1</span>:Nx)*dx;</span><br><span class="line">yp = Ymin - dy/<span class="number">2</span> + (<span class="number">1</span>:Ny)*dy;</span><br><span class="line">zp = Zmin - dz/<span class="number">2</span> + (<span class="number">1</span>:Nz)*dz;</span><br><span class="line"></span><br><span class="line">fprintf(fid, <span class="string">&quot;!X position:&quot;</span>);</span><br><span class="line"><span class="keyword">for</span> <span class="built_in">i</span> = <span class="number">1</span>:Nx</span><br><span class="line">	fprintf(fid,<span class="string">&quot;\t%f&quot;</span>,xp(<span class="built_in">i</span>));</span><br><span class="line"><span class="keyword">end</span></span><br><span class="line">fprintf(fid,<span class="string">&quot;\n&quot;</span>);</span><br><span class="line"></span><br><span class="line">fprintf(fid, <span class="string">&quot;!Y position:&quot;</span>);</span><br><span class="line"><span class="keyword">for</span> <span class="built_in">i</span> = <span class="number">1</span>:Ny</span><br><span class="line">	fprintf(fid,<span class="string">&quot;\t%f&quot;</span>,yp(<span class="built_in">i</span>));</span><br><span class="line"><span class="keyword">end</span></span><br><span class="line">fprintf(fid,<span class="string">&quot;\n&quot;</span>);</span><br><span class="line"></span><br><span class="line">fprintf(fid, <span class="string">&quot;!Z position:&quot;</span>);</span><br><span class="line"><span class="keyword">for</span> <span class="built_in">i</span> = <span class="number">1</span>:Nz</span><br><span class="line">	fprintf(fid,<span class="string">&quot;\t%f&quot;</span>,zp(<span class="built_in">i</span>));</span><br><span class="line"><span class="keyword">end</span></span><br><span class="line">fprintf(fid,<span class="string">&quot;\n\n&quot;</span>);</span><br><span class="line"></span><br><span class="line">fprintf(fid,<span class="string">&quot;cell_number %d  %d  %d !Number of cells(Nx,Ny,Nz) along x-,y-,z-directions. \n&quot;</span>, Nx,Ny,Nz);</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]]></content>
       <tags>
-        <tag>RF</tag>
+        <tag>Working Notes</tag>
       </tags>
   </entry>
   <entry>
